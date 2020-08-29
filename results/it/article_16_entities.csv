@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Massimo Egidi,Massimo Egidi,Massimo Egidi,ROMA,Massimo Egidi,Massimo Egidi,Massimo Egidi
+1,Rai,ROMA,Fabio Roversi Monaco .,Rai,ROMA,ROMA,Rai
+2,cda,Rai,Rai,Roma,Viale Mazzini,Rai,Viale Mazzini
+3,Viale Mazzini,Viale Mazzini,Viale Mazzini,Fabio Roversi Monaco,cda Rai,Viale Mazzini,Rai Holding
+4,Rai Holding,Maria Grazia Siliquini»,Rai Holding,Letizia Moratti,commissione di Vigilanza licenzia,cda Rai,Roma
+5,Istituto trentino di cultura,Rai Holding,.,Maria Grazia Siliquini,Roma,Rai Holding,Fabio Roversi Monaco
+6,Fabio Roversi Monaco,Istituto trentino di cultura l'altra a Roma,Roma,Francesco Alberoni,Fabio Roversi Monaco,Roma,Egidi
+7,Egidi,Fabio Roversi Monaco,Fabio Roversi,Cnr,Egidi,Fabio Roversi Monaco,Cdl
+8,Cdl,Egidi,Fabio Roversi Monaco,Udc,Letizia Moratti,Egidi,Maria Grazia Siliquini
+9,Letizia Moratti,Cdl,Egidi,,Maria Grazia Siliquini,Cdl,Letizia Moratti
+10,Maria Grazia Siliquini,Rai Spa,Viale Mazzini . Rai,,De Maio,Letizia Moratti,De Maio
+11,De Maio,De Maio,Cdl,,Francesco Alberoni,Maria Grazia Siliquini,Francesco Alberoni
+12,Francesco Alberoni,Francesco Alberoni,Maria Grazia Siliquini,,Cnr,De Maio,Cnr
+13,Cnr,Letizia Moratti,Letizia Moratti,,Rai Spa,Francesco Alberoni,Udc
+14,Rai Spa,Udc,De Maio,,Udc,Cnr,trentino
+15,Udc,,Francesco Alberoni,,,Istituto trentino,
+16,,,Cnr,,,Rai Spa,
+17,,,Rai Spa,,,Udc,

@@ -1,0 +1,13 @@
+venv/
+stanza_data/
+nltk_data/
+polyglot_data/
+stanford/
+tint/
+.idea/
+__pycache__/
+.DS_Store
+*/auth.json
+datasets/it/I-CAB_All/
+datasets/it/instructions.png
+datasets/en/dataset_orig.csv

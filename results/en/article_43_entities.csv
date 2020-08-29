@@ -1,0 +1,18 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,al-Qaida,al-Qaida,Jens Stoltenberg,Abu Musab al-Zarqawi,Abu Musab al-Zarqawi,Jens Stoltenberg,Abu Musab al-Zarqawi,Abu Musab al-Zarqawi,al-Qaida
+1,Jens Stoltenberg,Jens Stoltenberg,Wangari Maathai,Jens Stoltenberg,Jens Stoltenberg,Wangari Maathai,Jens Stoltenberg,Wangari Maathai,Jens Stoltenberg
+2,Wangari Maathai,Wangari Maathai,Svalbard,Wangari Maathai,Wangari Maathai,China,Wangari Maathai,Jens Stoltenberg,Wangari Maathai
+3,China,China,Xinhua,Dohuk,China,Xinhua,China,China,China
+4,Xinhua,Dohuk,Baghdad,Baghdad,Xinhua,Iraqi,Xinhua,Xinhua,Dohuk
+5,Dohuk,Baghdad,Irbil,Irbil,Iraqi,Dohuk,Dohuk,Iraqi,Baghdad
+6,Baghdad,Irbil,Kirkuk,Kirkuk,Dohuk,Baghdad,Baghdad,Dohuk,Irbil
+7,Irbil,Kirkuk,Qaida,al-Qaida in Iraq,Baghdad,Irbil,Irbil,Baghdad,Kirkuk
+8,North,Abu Musab al-Zarqawi's,Gao Qiang,Nobel-Prize,Irbil,Kirkuk,Kirkuk,Irbil,Abu Musab al-Zarqawi's
+9,Kirkuk,U.S.,China's,Norway,Kirkuk,U.S.,U.S.,Kirkuk,U.S.
+10,U.S.,Norway,Norway's,Gao Qiang,U.S.,Norway,Norway,North,Norway
+11,Abu Musab,Gao Qiang,Abu Musab,Prime Minister,Norway,Gao Qiang,Gao Qiang,U.S.,Gao Qiang
+12,al-Zarqawi,Xinhua news agency,China's Health Ministry,Svalbard,Gao Qiang,Australian,Svalbard,Gao Qiang,Xinhua news agency
+13,Svalbard,Svalbard,The U.S,Iraq,Iraq,Svalbard,Iraq,Australian,Svalbard
+14,Iraq,Iraq,Iraq,Xinhua news agency,Health Ministry,Iraq,Health Ministry,Svalbard,Iraq
+15,Health Ministry,Health Ministry,,Norwegian,,Health Ministry,,Health Ministry,Health Ministry
+16,Health Minister Gao Qiang,,,,,Norwegian,,Norwegian,

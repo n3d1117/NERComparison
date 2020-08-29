@@ -1,0 +1,18 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Lord 's Resistance Army,Somalia,Ugandan,Somalia,Somalia,Somalia,Somalia,Somalia,Somalia
+1,Mogadishu,Mogadishu,Ugandan Lord's Resistance Army,war crimes,Islamic State of Iraq,Ugandan,Islamic State of Iraq,Islamic State of Iraq,Mogadishu
+2,Abu Omar al-Baghdadi,Abu Omar al-Baghdadi,International Criminal,Mogadishu,Ugandan,Iraqi,Mogadishu,Ugandan,Abu Omar al-Baghdadi
+3,Juba,Juba,Mogadishu,Lord's Resistance Army,Iraqi,Ugandan Lord,Abu Omar al-Baghdadi,Mogadishu,Juba
+4,al-Baghdadi,The International Criminal Court,Islamic State,Abu Omar al-Baghdadi,Ugandan Lord,Mogadishu,Juba,Lord's Resistance Army,The International Criminal Court
+5,VOA,VOA,Abu Omar al,al-Qaida in Iraq,Mogadishu,Juba,VOA,Juba,VOA
+6,Prime Minister Meles Zenawi,The Islamic State of Iraq,Juba,VOA,Abu Omar al-Baghdadi,Abu Omar,Resistance Army,VOA,The Islamic State of Iraq
+7,James Obita,Ugandan Lord's,Qaida,Islamist,Juba,Resistance Army,Meles Zenawi,Meles Zenawi,Resistance Army
+8,International Criminal Court,Meles Zenawi,VOA,Meles Zenawi,VOA,Ethiopian,the International Criminal Court,James Obita,Meles Zenawi
+9,LRA,Resistance Army,Ethiopian,International Criminal Court,Resistance Army,Meles Zenawi,James Obita,Ethiopian,the International Criminal Court
+10,al-Qaida,the International Criminal Court,Meles Zenawi,James Obita,Meles Zenawi,International Criminal Court,LRA,International Criminal Court,James Obita
+11,Uganda,James Obita,James Obita,LRA,International Criminal Court,James Obita,International Criminal Court,al-Qaida,LRA
+12,Iraq,al-Baghdadi,LRA,al-Qaida,James Obita,LRA,Uganda,Iraq,al-Baghdadi
+13,Sudan,al-Qaida,Islamic,,LRA,Islamic,Iraq,Sudan,al-Qaida
+14,,Uganda,Uganda,,Uganda,Islamist,Sudan,,Uganda
+15,,Iraq,Iraq,,Iraq,Iraq,,,Iraq
+16,,Sudan,Sudan,,Sudan,Sudan,,,Sudan

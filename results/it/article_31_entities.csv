@@ -1,0 +1,18 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Paruzzi,Briatore,Marocco,Marocco,Paruzzi,Marocco,"Briatore
+Flavio Briatore"
+1,Briatore,Flavio Briatore,Aukland,Ocean's Twelve,Briatore,Paruzzi,Marocco
+2,Aukland,George,Briatore Flavio Briatore,Flavio Briatore,Aukland,Aukland,Paruzzi
+3,Flavio Briatore,Stephen Gaghan,Giorgio Di Centa,Stephen Gaghan,Flavio Briatore,Briatore Flavio Briatore,Aukland
+4,George,Cristina Paluselli,George,Cristina Paluselli,Stephen Gaghan,George,George
+5,Stephen Gaghan,Chenetti,americano,sequel,Centa,Stephen Gaghan,Stephen Gaghan
+6,Cristina Paluselli,Gabriella Paruzzi,Cristina Paluselli,Marcialonga,Cristina Paluselli,Cristina Paluselli,americano
+7,Chenetti,Formula 1,del,Syriana,Marcialonga,Chenetti,Cristina Paluselli
+8,Gabriella Paruzzi,Steven Soderbergh,Marcialonga,Gabriella Paruzzi,Gabriella Paruzzi,Gabriella Paruzzi,Marcialonga
+9,Formula 1,Gianantonio Zanetel,Gabriella Paruzzi,Formula 1,Gianantonio Zanetel,Formula 1,Chenetti
+10,Steven Soderbergh,George Clooney,Chenetti,Steven Soderbergh,Steven Soderbergh,Steven Soderbergh,Gianantonio Zanetel
+11,Gianantonio Zanetel,fratelli Aukland,Zanetel,Coppa del Mondo,Giorgio,Gianantonio Zanetel,Steven Soderbergh
+12,George Clooney,Giorgio Di Centa,Steven Soderbergh,George Clooney,George Clooney,George Clooney,George Clooney
+13,Giorgio Di Centa,,Formula,Giorgio Di Centa,Giorgio Di Centa,Giorgio Di Centa,Giorgio Di Centa
+14,,,George Clooney,,,,italiani
+15,,,Stephen Gaghan .,,,,

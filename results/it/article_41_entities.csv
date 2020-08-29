@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Roberto Maroni,»,Borgo Strigno,Roberto Maroni,Roberto Maroni,Laghetti,Roberto Maroni
+1,Rai,Laghetti,Rai,Bieno,Bieno,Bieno,Bieno
+2,Maroni,Bieno,Welfare,Rai,Borgo Strigno,Borgo Strigno,Borgo Strigno
+3,Passardi,Borgo Strigno,Maroni,TRENTO,dell'Apt Lagorai,Rai,Rai
+4,monte Lefre,Roberto Maroni,Passardi,biotopo,Maroni,Roberto Maroni,Passardi
+5,Ago,Welfare,TRENTO,busta paga,Rai,Maroni,Ago
+6,Ferrovie,Maroni,l'Apt Lagorai,Strigno,monte Lefre,Passardi,Apt Lagorai
+7,Apt Lagorai,Passardi,Ferrovie,Roncegno,TRENTO,monte Lefre,Ecobus del Lagorai
+8,Adige,Rai,Welfare Roberto Maroni,pensione di anzianità,Ferrovie,Ago,Roncegno
+9,assicurazione generale obbligatoria,Ago,Roncegno,assicurazione generale obbligatoria,Apt Lagorai,Lagorai TRENTO,Adige
+10,Lagorai,"Rai
+Lo",Adige,Lagorai,Roncegno,Ferrovie,"Lagorai
+TRENTO"
+11,Inpdap,Iscrizioni,Lagorai,Inpdap,Adige,Apt Lagorai,Inpdap
+12,,Ferrovie,,,Lagorai,Roncegno,
+13,,Apt Lagorai,,,,Adige,
+14,,Roncegno,,,,assicurazione generale obbligatoria,
+15,,Adige,,,,Inpdap,
+16,,Inpdap,,,,,

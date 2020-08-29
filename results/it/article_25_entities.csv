@@ -1,0 +1,23 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,polizia,Chini,Trento,Trento,Trento,Trento,Trento
+1,Polizia stradale,Anffas di Trento,Moena,Polizia stradale,Moena,polizia,Guardia di finanza
+2,Chini,Centro,Chini,Moena,Chini,Moena,"Signifredi
+Chini"
+3,questura,Artificieri,Serena,Guardia di finanza,Nuova casa Serena centro residenziale Anffas Trentino onlus,Polizia stradale,Centro di addestramento cinofilo di Moena
+4,Polizia di Stato,"Signifredi
+Chini",Polizia di Stato,Trentino,Guardia,Chini,Serena centro residenziale Anffas Trentino
+5,Signifredi,Lunedì,Parma,questura,Parma,Polizia di Stato,Chini
+6,Anffas Trentino onlus,Casa Serena,Signifredi,ricettazione,Casa Serena,Parma,Polizia di Stato
+7,Centro di addestramento cinofilo,Morelli,Guardia di,Polizia di Stato,Morelli,Anffas Trentino onlus,Parma
+8,Spirali,Trento,Signifredi Chini,Parma,Paolo Signifredi,Centro di addestramento cinofilo,Casa Serena
+9,Morelli,Polizia di Stato,pulmino,autovettura,,Signifredi,Morelli
+10,reparto Artificieri,Paolo Signifredi,Morelli,questore,,Signifredi Chini,Paolo Signifredi
+11,Chini costruzioni,Nuova casa,. Chini,,,Morelli,Anffas
+12,Paolo Signifredi,Moena,Polizia,,,reparto Artificieri,
+13,Anffas,Guardia di finanza,Paolo Signifredi,,,Chini costruzioni,
+14,,Anffas Trentino,,,,Paolo Signifredi,
+15,,Polizia stradale di Trento,,,,Anffas,
+16,,Serena,,,,,
+17,,Parma,,,,,
+18,,Spirali,,,,,
+19,,Signifredi,,,,,

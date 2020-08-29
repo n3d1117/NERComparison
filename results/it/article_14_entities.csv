@@ -1,0 +1,25 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Oddo,Tagliavento,Pelizzoli,Camoranesi,Tagliavento,Pelizzoli,Pelizzoli
+1,Fiore,Riva Arco Torbole sul Garda,Riva Arco Torbole sul Garda,Esposito,Garda,Tagliavento,Moratti
+2,Garda,Moratti,quest'oggi,Totti,Accademia di Danza Orientale Margarita,Moratti,ITALIA
+3,ITALIA,L'Accademia di Danza Orientale Margarita,Oddo Zaccardo Materazzi Pancaro,,Oddo Zaccardo Materazzi Pancaro,Garda,Diana Perrotta Fiore Di Vaio
+4,Accademia di Danza Orientale Margarita,Terni,. Moratti,,TRENTO,ITALIA,"Terni
+TRENTO - L'Accademia di Danza Orientale Margarita"
+5,Di Vaio,Egidi,De Maio,,Diana Perrotta Fiore Di Vaio,Accademia di Danza Orientale Margarita,Egidi
+6,Moratti,De Maio,Maria Rita Gandra,,Terni,Oddo Zaccardo Materazzi Pancaro,De Maio
+7,Materazzi,Maria Rita Gandra,Corradi Gilardino . Tagliavento,,De Maio,Diana Perrotta Fiore Di Vaio,Riva Arco Torbole
+8,Corradi,Corradi Gilardino,Camoranesi Totti Esposito,,Maria Rita Gandra,Egidi,Maria Rita Gandra
+9,Esposito,Camoranesi Totti Esposito,Danza,,Riva Arco Torbole,Maria Rita Gandra,Totti Esposito
+10,Egidi,Diana Perrotta,Terni TRENTO,,Corradi Gilardino,Riva Arco Torbole,Garda
+11,Maria Rita Gandra,,Vaio,,Camoranesi Totti Esposito,Camoranesi Totti Esposito,Zambrotta
+12,Gilardino,,Margarita,,Moratti vuole Egidi,Corradi Gilardino,Camoranesi
+13,Zambrotta,,Diana Perrotta Fiore,,,Terni TRENTO,
+14,Camoranesi,,L'Accademia,,,,
+15,Tagliavento,,,,,,
+16,Perrotta,,,,,,
+17,Pancaro,,,,,,
+18,De Maio,,,,,,
+19,Pelizzoli,,,,,,
+20,Zaccardo,,,,,,
+21,Diana,,,,,,
+22,Totti,,,,,,

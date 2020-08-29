@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Petruccioli,»,Petruccioli,Palazzo San Macuto,Petruccioli,Petruccioli,Petruccioli
+1,Ds,Petruccioli,Rai,Rai,Palazzo San Macuto,Giulietti,Palazzo San Macuto
+2,Giulietti,Palazzo San Macuto,Lega Nord,bolla,Rai,Rai,Rai
+3,Rai,Rai,capogruppo Udc,Lega Nord,Lega Nord,cda,Rai Holding
+4,cda,Vigilanza,Rai Holding,repubblica presidenziale,Verdi Pecoraro Scanio,Lega Nord,Lega Nord
+5,An,Lega Nord,Italia An,Forza Italia,Ds Giulietti,Rai Holding,centristi
+6,Lega Nord,Rai Holding,Verdi Pecoraro Scanio,Udc,Rai Spa,Verdi Pecoraro Scanio,Ds Giulietti
+7,Rai Holding,Verdi Pecoraro Scanio,San Macuto,,Iervolino,consiglio,Cdl
+8,consiglio,Iervolino «,Chi,,Margherita Gentiloni,Cdl,Pecoraro Scanio
+9,Cdl,Cdl,Lega,,Forza Italia An,Rai Spa,Verdi
+10,Pecoraro Scanio,Dai Ds Giulietti,Cdl,,,Iervolino,Forza Italia An
+11,Margherita,Rai Spa,Rai Spa,,,Margherita Gentiloni,Udc
+12,Forza Italia,Iervolino,Iervolino,,,Forza Italia An,
+13,Rai Spa,Margherita Gentiloni,Verdi,,,Udc,
+14,Iervolino,«,Margherita Gentiloni,,,,
+15,Gentiloni,Forza Italia An,San,,,,
+16,Verdi,Udc,,,,,
+17,Udc,,,,,,

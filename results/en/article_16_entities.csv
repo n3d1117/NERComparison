@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Somalia,Somalia,Thailand,Food and Agricultural Organization,Thailand,Chinese,Thailand,Thailand,Somalia
+1,Thailand,Thailand,Thai Deputy Interior,Sri Lanka,Kelantan,U.N.,Kelantan,Somalia,Thailand
+2,Kelantan,Kelantan,Kelantan,bird flu,Tangerang,Thaksin Shinawatra,Tangerang,Chinese,Kelantan
+3,U.N.,U.N.,Tangerang,Thaksin Shinawatra,Malaysia Indonesia,Malaysia,Malaysia Indonesia,Kelantan,U.N.
+4,Food and Agricultural Organization,Food and Agricultural Organization,Officials,Malaysia,FAO,Muslims,FAO,U.N.,Tangerang
+5,Tangerang,Interior,FAO,Maldives,Thai,Sutham Saengprathum,Thaksin Shinawatra,Food and Agricultural Organization,FAO
+6,FAO,Tangerang,Thai,southern Thailand,Malaysia,Agricultural Organization,Malaysia,Indonesia Maldives,Food and Agricultural Organization (FAO)
+7,Malaysia,FAO,Malaysia,Thailand,Indonesia Maldives Somalia Sri Lanka,Japanese,Indonesia Maldives Somalia Sri Lanka,Tangerang,Malaysia
+8,Bekasi,Thaksin Shinawatra,Indonesia Maldives Somalia Sri Lanka,Thai Prime Minister,Thaksin Shinawatra,Thailand,U.N. 's Food and Agricultural Organization ( FAO,Japanese,Bekasi
+9,Prime Minister Thaksin Shinawatra,Malaysia,Malaysia's,Thai,Sutham Saengprathum,Food,Sutham Saengprathum,Thai,Thaksin Shinawatra
+10,Muslims,Bekasi,Thaksin Shinawatra,Muslim,Shanghai,Thai,Shanghai,Malaysia,Sutham Saengprathum
+11,Deputy Interior Minister Sutham Saengprathum,Sutham Saengprathum,Sutham Saengprathum,tsunami,Indonesia,Indonesia,Indonesia,Thaksin Shinawatra,Shanghai
+12,Islamic,Shanghai,Malaysia Indonesia,Indonesia,Jakarta,Kelantan,Jakarta,Bekasi,Maldives
+13,Shanghai,Indonesia,Agricultural Organization,violent Saturday,Bekasi,FAO,Bekasi,Sutham Saengprathum,Indonesia
+14,Maldives,Jakarta,Shanghai,Somalia,,Islamic,,Shanghai,Jakarta
+15,Indonesia,Sri Lanka,Indonesia,Kelantan,,Shanghai,,Indonesia,Sri Lanka
+16,Jakarta,,Jakarta,FAO,,Tangerang,,Jakarta,
+17,Sri Lanka,,Bekasi,Shanghai,,Jakarta,,Sri Lanka,
+18,,,,Tangerang,,Bekasi,,,
+19,,,,Jakarta,,,,,
+20,,,,Bekasi,,,,,

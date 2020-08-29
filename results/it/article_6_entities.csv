@@ -1,0 +1,43 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Michele Salerno,Franz Senfter Franz Staffler Gilberto Gabrielli,olandese Olot Bv,Amsterdam,Michele Salerno,Adanti,Franz Senfter Franz Staffler Gilberto Gabrielli
+1,Aspiag,Adanti,Franz Senfter Franz Staffler Gilberto Gabrielli,Aspiag,Lavoratori,Bresciani,Adanti
+2,Adanti,Martinez,Candido,Bolzano,Franz Senfter Franz,Martinez,Bresciani
+3,Bresciani,Nofra,Adanti,Bologna,Alps,Nofra,Martinez
+4,Cooperativa Lavoratori Edili,Amsterdam,Nofra,Simona La Mantia,Martinez,Amsterdam,Nofra
+5,Martinez,Sicet Michele Salerno,Amsterdam,Olot,Amsterdam,Polnova,Amsterdam
+6,Nofra,Polnova,Sicet Michele Salerno,Brunico,Finance,Bolzano,russa
+7,Polnova,Eurobau Home,Finance,Bruxelles,trentina Bresciani,Bologna,Eurobau Home
+8,Johann Krapf,San Candido,russa,Verona,russa Pyatykh,Simona La Mantia,Livolsi & Partners
+9,Eurobau Home,Roma,russa Pyatykh,Salerno,San Candido,Rahouli,algerina
+10,Livolsi & Partners,Bolzano,Roma,Ifi,Ivo,Euregio Finance,Roma
+11,Simona La Mantia,Bologna,Bolzano,,Roma,Duka,Bolzano
+12,Ivo Defranceschi,Ivo Defranceschi,Bologna,,Bolzano,Lana,Bologna
+13,Rahouli,Rahouli,Ivo Defranceschi,,Bologna,Verona,Simona La Mantia
+14,Euregio Finance,Euregio Finance,Sicet,,Simona La Mantia,Olot Bv,Rahouli
+15,Treufinanz,Wall Street,Duka,,Euregio Finance,Pyatykh,Euregio Finance
+16,Wall Street,Duka,. l'azzurra Martinez,,Helmut,Alpenair Ifi Cooperativa Lavoratori Edili Ivo Defranceschi Treufinanz Aspiag Sicet Michele Salerno,Wall Street
+17,Sicet,Sviluppo,olandese,,Wall Street,Chiusa,Duka
+18,Duka,Lana,Johann Krapf Mauro Miccio,,Duka,Alps Finance,olandese
+19,Mauro Miccio,Piazza Affari,Euregio,,Gilberto Gabrielli,Brunico,Lana
+20,Gilberto Gabrielli,Verona,Verona,,Lana,Bruxelles,Johann Krapf Mauro Miccio
+21,Piazza Affari,Consiglieri Johann Krapf Mauro Miccio,Olot Bv,,Rudolf Alois,Compagnia Investimenti e Sviluppo,Piazza Affari
+22,Franz Staffler,Olot Bv,Chiusa,,Piazza Affari,,Verona
+23,Olot Bv,Chiusa,Alpenair,,Verona,,Olot Bv
+24,Ifi,Alpenair,Livolsi,,Consiglieri Johann Krapf Mauro Miccio,,Pyatykh
+25,Pyatykh,Alps Finance,l'algerina Rahouli,,Italiano,,Alpenair Ifi Cooperativa Lavoratori Edili Ivo Defranceschi Treufinanz Aspiag Sicet Michele Salerno
+26,Alpenair,Compagnia Investimenti,Wall,,Chiusa,,Chiusa
+27,Alps Finance,Milano,Mantia,,Alpenair,,Alpenair
+28,Rudolf Alois Rimbl,Egna,Milano,,Livolsi,,Alps Finance
+29,Unionbau,Unionbau,Egna,,Milano,,Milano
+30,Franz Senfter,Rudolf Alois Rimbl,Unionbau,,Egna,,Egna
+31,Studio Tecnico Italiano,Studio Tecnico Italiano,Rudolf Alois Rimbl,,Olot,,italiana
+32,Helmut Marsoner,Brunico,Simona,,Brunico,,Unionbau
+33,Compagnia Investimenti e Sviluppo,Helmut Marsoner,Studio Tecnico Italiano,,Innsbruck,,Studio Tecnico Italiano
+34,Würth,Innsbruck,Olot,,Bruxelles,,Brunico
+35,,Bruxelles,Brunico,,Campo Tures,,Innsbruck
+36,,Campo Tures,Helmut Marsoner,,Würth,,Helmut Marsoner
+37,,Würth,Innsbruck,,russa Polnova,,Bruxelles
+38,,,Bruxelles,,,,Campo Tures
+39,,,Campo Tures,,,,Compagnia Investimenti e Sviluppo
+40,,,Würth,,,,San Candido) Würth
+41,,,russa Polnova,,,,

@@ -1,0 +1,34 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Venezia,Venezia,Venezia,Ternana,Venezia,Venezia,Venezia
+1,Catanzaro,Catanzaro,Catanzaro,Arezzo,Catanzaro,Controsenso,Arezzo
+2,Controsenso,Controsenso,Centro,,Arezzo,Arezzo,Ternana
+3,Arezzo,Ternana,Arezzo,,Piacenza,Ternana,Piacenza
+4,Ternana,Arezzo 1,Ternana,,via Fermi,Empoli,Salernitana
+5,Empoli,Empoli,Empoli,,Trento,Train in spain,Rock On
+6,Train in spain,Piacenza,Piacenza,,Pescara,Pescara 5 Venezia,via Fermi
+7,Centro della Musica,Salernitana,Salernitana,,Arezzo Catania,Ascoli 8 Verona,Trento
+8,Piacenza,Centro Musica di via Fermi,Walker,,Verona,Salernitana 3 Treviso,Modena
+9,Salernitana,Trento,Trento,,Settimo Livello,Outline,"Centro della Musica
+TRENTO"
+10,Outline,Albinoleffe,Modena,,Vicenza,Crotone 7 Ternana 6 Catanzaro,Pescara
+11,via Fermi,Modena,Pescara,,Walker Texas Ranger,via Fermi,Torino
+12,Albinoleffe,Pescara,Genoa,,Crotone,Piacenza 9 Arezzo Catania,Verona
+13,Modena,Genoa,Arezzo Catania,,Bari,Trento,Cesena
+14,Pescara,Arezzo Catania,Torino,,Treviso,Albinoleffe,Vicenza
+15,Genoa,"Centro della Musica
+TRENTO -"" Outline"""" Fuori Rotta",Perugia,,Ascoli,Centro della Musica TRENTO,Treviso
+16,Fuori Rotta,Verona,Verona,,TRENTO,Fuori Rotta,Bari
+17,Torino,Cesena,Cesena,,Centro Musica,Torino,Ascoli
+18,Perugia,Vicenza,Vicenza,,Bari 4 Modena,Perugia,Catania
+19,Verona,Crotone,Crotone,,,Verona,Albinoleffe 14 Perugia 12 Genoa 11 Triestina
+20,Cesena,Treviso,Treviso,,,Cesena,Centro Musica
+21,Vicenza,Bari,Bari,,,Genoa 11 Triestina,Triestina
+22,Walker Texas Ranger,Ascoli,Ascoli,,,Vicenza,
+23,Blame,Triestina,Musica TRENTO,,,Walker Texas Ranger,
+24,Crotone,,Triestina,,,Blame,
+25,Treviso,,,,,Treviso,
+26,Bari,,,,,Bari,
+27,Ascoli,,,,,Centro Musica,
+28,Catania,,,,,Triestina,
+29,Centro Musica,,,,,Bari 4 Modena,
+30,Triestina,,,,,,

@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Islamic Jihad,Islamic Jihad,Islamic Jihad,suicide bomber,Shahdi Mohanna,Hilla,Shahdi Mohanna,Hilla,Islamic Jihad
+1,Hilla,Hilla,Hilla,Mohanna,Hilla,British,Hilla,British,Hilla
+2,Shahdi Mohanna,Shahdi Mohanna,Gaza,Islamic Jihad,Palestinians,Guardian,Palestinian Authority,Guardian,Shahdi Mohanna
+3,Taliban,Ariel Sharon,Ariel Sharon,Palestinians,Ariel Sharon,Baghdad,Baghdad,Baghdad,Ariel Sharon
+4,Guardian,Taliban,Guardian,Ariel Sharon,Taliban,Reuters,Mahmoud Abbas,Reuters,Taliban
+5,Baghdad,Guardian,Baghdad,Taliban,Baghdad,Israel,Gaza Strip,Ariel Sharon,Guardian
+6,Mahmoud Abbas,Baghdad,Mahmoud Abbas,Baghdad,Mahmoud Abbas,Ariel Sharon,Reuters,Palestinian Authority,Baghdad
+7,Gaza Strip,Mahmoud Abbas,Israeli,Jabaliya refugee camp,Israeli,Islamic Jihad,Kabul,Islamic Jihad,Mahmoud Abbas
+8,Jabaliya,the Gaza Strip,Afghan,Gaza Strip,Gaza Strip,Taliban,Israel,Palestinians,the Gaza Strip
+9,Reuters,Gaza Strip,Shahdi,Israeli Prime Minister,Reuters,Gaza Strip,Israeli Prime Minister Ariel Sharon,Taliban,Gaza Strip
+10,Prime Minister Ariel Sharon,the Palestinian Authority,Islamic,Reuters,Kabul,Authority,,Gaza Strip,the Palestinian Authority
+11,Kabul,Reuters,Reuters,Kabul,Israel,Jabaliya,,Jabaliya,Jabaliya
+12,Israel,Kabul,Kabul,Israel,Palestinian Authority,Kabul,,Kabul,Reuters
+13,,Israel,Israel,the Guardian,Palestinian,Shahdi Mohanna,,Shahdi Mohanna,Kabul
+14,,,Palestinian Authority,Palestinian Authority,,Palestinian,,Palestinian,Israel
+15,,,,,,Afghans,,Afghans,
+16,,,,,,Mahmoud Abbas,,Mahmoud Abbas,
+17,,,,,,Israeli,,Israeli,
+18,,,,,,Afghan,,Afghan,

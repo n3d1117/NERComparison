@@ -1,0 +1,25 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Liu Jianchao,the United Arab Emirates,Baghdad,Colombia,Baghdad,Chinese,Baghdad,Colombia,the United Arab Emirates
+1,Labor Department,Baghdad,Labor,Liu Jianchao,Alvaro Uribe,Baghdad,Colombian Defense,Liu Jianchao,Baghdad
+2,Etihad,Alvaro Uribe,Colombian Defense,Emirates airlines,China,Labor,Alvaro Uribe,Labor Department,Alvaro Uribe
+3,Emirates airlines,the Department of Labor,Alvaro Uribe,Baghdad,Colombian,Department,China,China,the Department of Labor
+4,Baghdad,the United States,U.S,Juan Manuel Santos,U.S. Commission on International Religious Freedom,International Religious Freedom,U.S. Commission on International Religious Freedom,Etihad,the United States
+5,Mr. Chavez,China,China,U.S. Commission on International Religious Freedom,Ecuador,Colombian Defense,Ecuador,Venezuelan,China
+6,Department of Labor,Ecuador,Colombian,Ecuador,U.S.,Alvaro Uribe,U.S.,Baghdad,Ecuador
+7,U.S. Commission on International Religious Freedom,Emirates,Ecuador,United Arab Emirates,Hugo Chavez,China,Hugo Chavez,Juan Manuel Santos,Emirates
+8,President Hugo Chavez,U.S.,Emirates,Hugo Chavez,Uribe,Colombian,Uribe,U.S. Commission on International Religious Freedom,U.S.
+9,President Alvaro Uribe,Defense,Foreign Ministry,Chinese Foreign Ministry,Liu Jianchao,Emirates,Liu Jianchao,Ecuador,Defense
+10,Ecuador,Tensions,Hugo Chavez,Venezuela,Labor Department,U.S.,United States,Emirates,Hugo Chavez
+11,Foreign Ministry,Hugo Chavez,of Labor,Alvaro Uribe,United States,Foreign Ministry,Department of Labor,U.S.,Uribe
+12,President Uribe,Uribe,Uribe,Colombian President,Mr. Chavez,Hugo Chavez,Juan Manuel Santos,Foreign Ministry,Liu Jianchao
+13,United Arab Emirates,Liu Jianchao,Liu Jianchao,,Department of Labor,Uribe,Labor Department Friday,Hugo Chavez,The Labor Department
+14,Defense Minister Juan Manuel Santos,The Labor Department,United States,,Juan Manuel Santos,Liu Jianchao,Colombia,Alvaro Uribe,Juan Manuel Santos
+15,,Juan Manuel Santos,Freedom,,Colombia,Labor Department,Chavez,,Colombia
+16,,Colombia,Juan Manuel Santos,,Etihad,United States,United Arab Emirates,,the U.S. Commission on International Religious Freedom
+17,,the U.S. Commission on International Religious Freedom,U.S . Commission,,United Arab Emirates,Mr. Chavez,Chinese Foreign Ministry,,Chavez
+18,,Chavez,Colombia,,Chinese Foreign Ministry,Juan Manuel Santos,Venezuela,,Etihad
+19,,Etihad,Chavez,,Venezuela,Colombia,,,Chinese Foreign Ministry
+20,,Venezuela,Etihad,,,Etihad,,,Venezuela
+21,,,United Arab Emirates,,,Venezuelan,,,
+22,,,Venezuela,,,United Arab Emirates,,,
+23,,,,,,Venezuela,,,

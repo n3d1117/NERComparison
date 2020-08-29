@@ -1,0 +1,13 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Bezzi,Trento,Trento,Trento,Trento,Trento,Trento
+1,Gilmozzi,Iva Berasi,Gilmozzi,Lancia K,Bezzi,Bezzi,L'assessore Berasi
+2,Iva Berasi,Claudio Vadagnini,Iva Berasi,Carlo Andreotti,Gilmozzi,Gilmozzi,Gilmozzi
+3,Claudio Vadagnini,Carlo Andreotti,Claudio Vadagnini,smog,Iva,Iva Berasi,Claudio Vadagnini
+4,Carlo Andreotti,Lancia K Bezzi,Carlo Andreotti,Audi A6,consigliere comunale verde Aldo Pompermaier,Claudio Vadagnini,Carlo Andreotti
+5,Aldo Pompermaier,Olmi,Olmi,"io.
+Carlo",Claudio Vadagnini,Carlo Andreotti,Lancia K Bezzi
+6,viale Olmi,Aldo Pompermaier,Aldo Pompermaier,,Carlo Andreotti,Aldo Pompermaier,Aldo Pompermaier
+7,Banda,Banda,Lancia K Bezzi,,Lancia,viale Olmi,viale Olmi
+8,Pompermaier,Pompermaier,Berasi,,viale Olmi,Banda,Banda
+9,Berasi,Berasi,,,Banda,Pompermaier,Pompermaier
+10,,,,,Audi,Berasi,

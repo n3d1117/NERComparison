@@ -1,0 +1,21 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Cholily,western,Husin,United Nations,Darfur,Cholily,Ismail,Cholily,Cholily
+1,United Nations,Ismail,Mr,African Union,United Nations and African Union,United Nations,African Union,Indonesian,Ismail
+2,African Union,African Union,Ismail,Darfur,Mr. Ismail,Sudanese,United Nations,United Nations,African Union
+3,Darfur,Darfur,United Nations,Java island,Mustafa Osman Ismail,Darfur,Darfur,African Union,Darfur
+4,Mr. Ismail,Java island,African Union,Bali,Khartoum,Mr. Ismail,Khartoum,French,Khartoum
+5,Khartoum,Khartoum,Wednesday,Mustafa Osman Ismail,Labado,Australian,Mustafa Osman Ismail,Darfur,Mustafa Osman Ismail
+6,Labado,Mustafa Osman Ismail,Khartoum Sunday,South Darfur,South Darfur,Sudan,Labado,Azahari bin Husin,the United Nations
+7,Bali,the United Nations,Darfur,counter-terrorism,Bali,Husin,Bali,Mustafa Osman Ismail,Labado
+8,South Darfur,Labado,Labado,Indonesia,Java,French,South Darfur,Bali,South Darfur
+9,AU,South Darfur,Mustafa Osman Ismail,Sudan,Indonesia,Khartoum,Azahari bin Husin,Khartoum,AU
+10,Foreign Minister Mustafa Osman Ismail,AU,Bali,,Azahari bin Husin,Indonesian,Java,Labado,Bali
+11,Indonesia,Bali,South Darfur,,Sudan,South Darfur,Indonesia,AU,Indonesia
+12,Azahari bin Husin,Indonesia,Java,,,AU,,Java,Azahari bin Husin
+13,Java,Azahari bin Husin,Indonesia,,,Indonesia,,Australian,Java
+14,,Sudan,,,,Azahari,,Sudan,Sudan
+15,,,,,,African Union,,,
+16,,,,,,Bali,,,
+17,,,,,,Mustafa Osman Ismail,,,
+18,,,,,,Labado,,,
+19,,,,,,Java,,,

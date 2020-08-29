@@ -1,0 +1,6 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Tim Harcourt,Tim Harcourt,Tim Harcourt,Tim Harcourt,Harcourt,APEC,Tim Harcourt,Tim Harcourt,Tim Harcourt
+1,APEC,the Australian Trade Commission,APEC,Australian Trade Commission,Tim Harcourt,ABAC,APEC,APEC,the Australian Trade Commission
+2,ABAC,APEC,ABAC,APEC,Australian Trade Commission,Tim,ABAC,ABAC,APEC
+3,Australian Trade Commission,ABAC,Australian Trade Commission,,APEC,Australian,Australian Trade Commission,Australian Trade Commission,ABAC
+4,Harcourt,Harcourt,Harcourt,,,Harcourt,Harcourt,Harcourt,Harcourt

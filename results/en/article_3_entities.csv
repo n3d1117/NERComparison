@@ -1,0 +1,16 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Brotherhood,Brotherhood,West Frontier,political party,Brotherhood,Brotherhood,Brotherhood,Baghdad,Brotherhood
+1,Baghdad,Baghdad,West Frontier Province,Alexandria,Baghdad,American,Baghdad,Alexandria,the Mutahida Majlis-e-Amal
+2,Alexandria,Alexandria,Brotherhood,Muslim Brotherhood,Alexandria,Baghdad,Alexandria,al Qaida,Baghdad
+3,Mutahida Majlis-e-Amal,Mutahida Majlis-e-Amal,Baghdad,al Qaida in Iraq,Amal,Alexandria,Mutahida Majlis-e-Amal,Muslim Brotherhood,Alexandria
+4,Muslim Brotherhood,al Qaida,Qaida,Pakistan,U.S.,North West,U.S.,U.S.,al Qaida
+5,al Qaida in Iraq,U.S.,Alexandria,Anbar province,Muslim Brotherhood,U.S.,Muslim Brotherhood,Egyptian,U.S.
+6,Pakistan,Muslim Brotherhood,Pakistan's,Sunni,North West Frontier Province,Muslim Brotherhood,North West Frontier Province,North West Frontier Province,Muslim Brotherhood
+7,Sunni,North West Frontier Province,Anbar,North West Frontier Province,Mutahida Majlis,Egyptian,Pakistan,Pakistan,North West Frontier Province
+8,Anbar,Pakistan,Baghdad Sunday,Mosul,Pakistan,Pakistan,Anbar,Anbar,Pakistan
+9,North West Frontier Province,Anbar,Iraq,,Anbar,Sunni,Iraq,Iraq,Anbar
+10,Mosul,The Muslim Brotherhood,Mosul,,Iraq,Islamic,,Mosul,The Muslim Brotherhood
+11,,Iraq,,,Mosul,Anbar,,,Iraq
+12,,Mosul,,,,Iraq,,,Mosul
+13,,,,,,Mosul,,,
+14,,,,,,Mutahida,,,

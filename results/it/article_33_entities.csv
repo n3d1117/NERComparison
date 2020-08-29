@@ -1,0 +1,28 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Ed .,Micaela Bertoldi,Segantini,Trento,Sala,Trentino Micaela Bertoldi,Sala
+1,Teatro Stabile di Bolzano,Marco Bernardi,Marco Bernardi,Lorenzo Dellai,Centro,Marco Bernardi,Micaela Bertoldi
+2,Micaela Bertoldi,Sala della Cooperazione,Ed . Arca,Trentino,Trentino Micaela Bertoldi,Ed . Arca,Marco Bernardi
+3,Centro S. Chiara,Trentino,Venezie,Ernani,Marco Bernardi,Paolo Tognolatti,Trentino
+4,Marco Bernardi,Orchestra Haydn di Bolzano,Haydn,Teatro Stabile di Bolzano,Ed,Bolzano,Paolo Tognolatti
+5,Paolo Tognolatti,Paolo Tognolatti,Trentino,Mario Martone,Cultura,Delegazione interregionale delle Tre Venezie,Centro S. Chiara Carlo Fait
+6,Delegazione interregionale delle Tre Venezie,Bolzano,Generale Italiana,Roma,Paolo Tognolatti,Giovanni Duca,Bolzano
+7,Giovanni Duca,Giovanni Duca,Roma,Carlo Fait,Bolzano Franz Von,Carlo Fait,Giovanni Duca
+8,Carlo Fait,Carlo Fait,Bolzano,Margherita Cogo,Chiara Carlo Fait,Margherita Cogo,Margherita Cogo
+9,Margherita Cogo,Alberto Pacher,Giovanni Duca,Alberto Pacher,Bolzano,Alberto Pacher,Alberto Pacher
+10,Alberto Pacher,«Bagliori»,Margherita Cogo,Orchestra Haydn,Giovanni Duca,Orchestra Haydn,Orchestra Haydn
+11,Orchestra Haydn,Arca,Alberto Pacher,Europa,Margherita Cogo,Opera di Roma Francesco Ernani,Nicholas Payne
+12,Arca,Nicholas Payne,Europa,Marco Bernardi,Alberto Pacher,Nicholas Payne,Trento
+13,Nicholas Payne,Trento,Trentino Micaela Bertoldi assessora,,Arca,Trento,Opera di Roma
+14,Opera di Roma,Francesco Ernani,. Presiederà,,Nicholas Payne,Opera Europa,Francesco Ernani
+15,Francesco Ernani,Teatro Stabile di,Nicholas Payne,,Trento,via Segantini 10,via Segantini 10
+16,Opera Europa,Lorenzo Dellai,Trento,,Opera Europa,Centro S,Lorenzo Dellai
+17,via Segantini 10,Franz Von Walther,Bolzano Franz Von Walther,,Giliola,Lorenzo Dellai,Agis
+18,Lorenzo Dellai,Agis,Spettacolo,,Walther,Agis,Associazione Generale Italiana dello Spettacolo
+19,Franz Von Walther,Associazione Generale Italiana dello Spettacolo,interregionale,,via Segantini,Associazione Generale Italiana dello Spettacolo,Mario Martone
+20,Agis,Mario Martone,Lorenzo Dellai,,Lorenzo Dellai,Mario Martone,Teatro Stabile di Bolzano Franz Von Walther
+21,Associazione Generale Italiana dello Spettacolo,Cultura Margherita Cogo,Mario Martone . Paolo Tognolatti,,Agis,Teatro Stabile di Bolzano Franz Von Walther,Giliola Galvagni
+22,Mario Martone,S. Chiara,Roma Francesco Ernani,,Mario Martone,Giliola Galvagni,
+23,Giliola Galvagni,,. Chiara Carlo Fait,,Voce,,
+24,,,Stabile,,Roma Francesco Ernani,,
+25,,,Giliola Galvagni,,Haydn,,
+26,,,,,Tre Venezie dell'Associazione Generale Italiana dello Spettacolo,,

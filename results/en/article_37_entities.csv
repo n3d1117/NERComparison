@@ -1,0 +1,21 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Mr. Dulaymi,al-Qaida,Dulaymi's,Gaza,Aqsa Martyrs Brigades,Mr. Dulaymi,Adnan al-Dulaymi,United Nations,Gaza
+1,Gaza,Islamic Jihad,Gaza,United Nations,Islamic Jihad,Gaza,Gaza,Baghdad,United Nations
+2,United Nations,Adnan al-Dulaymi,United Nations,Baghdad,Gaza,United Nations,United Nations,Green Zone,Baghdad
+3,Baghdad,Gaza,.,al-Qaida,Hamas,Baghdad,Baghdad,Italian,Green Zone
+4,Green Zone,Hamas,Baghdad,Israel,United Nations,Green Zone,Mahmoud Abbas,al-Qaida,al-Qaida
+5,al-Qaida,United Nations,Italian,car bomb,Iraqi,Italian,Iraq,Israel,Israel
+6,Israel,Baghdad,Israel,Hamas,Baghdad,Israel,Gaza Strip,Hamas,Adnan al-Dulaymi
+7,Adnan al-Dulaymi,Mahmoud Abbas,Brigades,Khan Younis,Mahmoud Abbas,Khan Younis,Sunni Arab,Khan Younis,Hamas
+8,Hamas,the Gaza Strip,Hamas,Sunni,Iraq,U.S.,Khan Younis,U.S.,Khan Younis
+9,Khan Younis,Iraq,Khan Younis,Iraq,Popular Resistance Committees,Martyrs Brigades,U.S.,Iraq,U.S.
+10,U.S.,Green Zone,Aqsa,Palestinian Authority,Gaza Strip,Iraq,Israel,Dulaymi,the Popular Resistance Committees
+11,Iraq,U.S.,Iraq,Baghdad's Green Zone,Khan Younis,Islamic Jihad,Tal Afar,Palestinian Authority,Iraq
+12,Palestinian Authority,Israel,Islamic Jihad,Islamic Jihad,U.S.,Iraqi,Palestinian Authority,Islamic Jihad,Palestinian Authority
+13,Islamic Jihad,the Popular Resistance Committees,Coalition,Popular Resistance Committees,Israel,Popular Resistance Committees,Dulaymi,Popular Resistance Committees,Dulaymi
+14,President Mahmoud Abbas,Tal Afar,Tal Afar,early today,Tal Afar,Gaza Strip,,Gaza Strip,Islamic Jihad
+15,Popular Resistance Committees,Palestinian Authority,Popular Resistance,Gaza Strip,Palestinian Authority,Palestinian,,al-Aqsa Martyrs Brigades,the Gaza Strip
+16,Gaza Strip,Dulaymi,Palestinian,al-Aqsa Martyrs Brigades,,Mahmoud Abbas,,Arab,al-Aqsa Martyrs Brigades
+17,al-Aqsa Martyrs Brigades,,Mahmoud Abbas,Tal Afar,,Sunni Arab,,Tal Afar,Tal Afar
+18,Tal Afar,,Adnan al,Mahmoud Abbas,,Tal,,Palestinian,Mahmoud Abbas
+19,Sunni Arab,,Islamic,,,Adnan,,Mahmoud Abbas,

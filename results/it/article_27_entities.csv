@@ -1,0 +1,16 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Dusevich,Vicenza,Vicenza,Vicenza,Vicenza,Vicenza,Vicenza
+1,Chini,Dusevich,Chini,carabinieri,Chini,Dusevich,Dusevich
+2,Walter Zanetti,Chini,Walter Zanetti,Tolmezzo,Walter Zanetti,Chini,Chini
+3,carabinieri,Walter Zanetti,Paul John Pallaoro,tribunale del riesame,Paul John Pallaoro,Walter Zanetti,Walter Zanetti
+4,Paul John Pallaoro,Paul John Pallaoro,Fulvio Trentini,bancarotta fraudolenta,Fulvio Trentini,carabinieri,Paul John Pallaoro
+5,Fulvio Trentini,Fulvio Trentini,Mario Murgo,,Mario Murgo,Paul John Pallaoro,"Trentini
+Colpo dai Dusevich"
+6,Mario Murgo,Mario Murgo,Spagnolo,,Spagnolo,Fulvio Trentini,Fulvio Trentini
+7,Spagnolo,Tolmezzo,. Trentini,,Tolmezzo,Mario Murgo,Mario Murgo
+8,tribunale del riesame,Gianfranco Spagnolo,Tolmezzo,,Gianfranco Spagnolo,Spagnolo,Spagnolo
+9,Gianfranco Spagnolo,Procura,Gianfranco Spagnolo,,Trentini,Tolmezzo,Tolmezzo
+10,Procura,Trentini,inquirenti Trentini,,,tribunale del riesame,Gianfranco Spagnolo
+11,Trentini,,Trentini,,,Gianfranco Spagnolo,Trentini
+12,,,,,,Procura,
+13,,,,,,Trentini,

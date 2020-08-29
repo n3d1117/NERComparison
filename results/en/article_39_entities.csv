@@ -1,0 +1,18 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Zoba Yass,the Transportation Ministry,U.S,Shi'ite,Sunni Human Rights appointee Hashem Ashibli,Mian,Sunni Human Rights appointee Hashem Ashibli,Arab,Zoba Yass
+1,Prime Minister Yusuf Raza Gilani,U.N.,Pakistani,Saadoun al-Dulaimi,U.N.,Pakistani,Transportation Ministry Zoba Yass,Transportation Ministry Zoba Yass,the Transportation Ministry
+2,U.N.,Saadoun al-Dulaimi,Dulaimi,Yass,Qaim,Transportation Ministry Zoba Yass,U.N.,U.N.,U.N.
+3,Saadoun al-Dulaimi,the Sunni Human Rights appointee Hashem Ashibli,Ibrahim Bahr al,Baghdad,Mian Channu,U.N.,Sunni Arab Saadoun al-Dulaimi,Saadoun al-Dulaimi,Saadoun al-Dulaimi
+4,Mian Channu,Baghdad,al,education in Pakistan,Baghdad,Iraqi,Baghdad,Mian Channu,Mian Channu
+5,Baghdad,Punjab province,Baghdad,Mian Channu,Punjab,Baghdad,Punjab,Baghdad,Baghdad
+6,Punjab,U.S.,Officials,Human Rights,U.S.,Punjab,U.S.,Punjab,Punjab province
+7,Muslim,Pakistan,Yusuf Raza Gilani,Yusuf Raza Gilani,Arab Saadoun al-Dulaimi,Muslim,Pakistan,U.S.,U.S.
+8,Pakistan,Yusuf Raza Gilani,Transportation Ministry,Sunni,Pakistan,Pakistan,Yusuf Raza Gilani,Yusuf Raza Gilani,Pakistan
+9,Sunni,Ibrahim Bahr al-Uloum,Saddam Hussein,Iraqi police,Yusuf Raza Gilani,Sunni,Ibrahim Bahr,Pakistan,Yusuf Raza Gilani
+10,Transportation Ministry,Saddam Hussein,Hashem Ashibli,Saddam Hussein,Transportation Ministry,Arab Saadoun,Saddam Hussein,Ibrahim Bahr al-Uloum,Ibrahim Bahr al-Uloum
+11,Ibrahim Bahr al-Uloum,Zoba Yass,Pakistan's Punjab,al-Qaim,Ibrahim Bahr,Ibrahim Bahr,,Saddam Hussein,Saddam Hussein
+12,Saddam Hussein,Iraq,,,Saddam Hussein,Separately U.S.,,Iraq,Hashem Ashibli
+13,Sunni Human Rights,al-Qaim,,,Zoba Yass,Saddam Hussein,,al-Qaim,Iraq
+14,Hashem Ashibli,,,,Iraq,Hashem Ashibli,,,al-Qaim
+15,al-Qaim,,,,,Yusuf Raza Gilani,,,
+16,,,,,,Iraq,,,

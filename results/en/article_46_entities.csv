@@ -1,0 +1,12 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Brotherhood,Brotherhood,Ivanov,intercontinental ballistic missiles,Ivanov,Smaller,Ivanov,Ivanov,Brotherhood
+1,Ivanov,Ivanov,Cairo,rally,Cairo,Brotherhood,Cairo,Cairo,Ivanov
+2,Cairo,Cairo,Russia,Cairo,Russia,Ivanov,Russia,Russia,Cairo
+3,Russia,Russia,Muslim,Russia,Muslim Brotherhood,Cairo,Afghanistan,Muslim Brotherhood,Russia
+4,Muslim Brotherhood,the Muslim Brotherhood,Egypt's,Egyptian parliament,Egyptian,Russia,Kabul,Egyptian,the Muslim Brotherhood
+5,Afghanistan,Muslim Brotherhood,Kabul,Islamic state,Afghanistan,Muslim Brotherhood,Egypt,Afghanistan,Afghanistan
+6,Kabul,Afghanistan,,Muslim Brotherhood,Kabul,Egyptian,,Kabul,Kabul
+7,Egypt,Kabul,,Afghanistan,Egypt,Islamic,,,The Muslim Brotherhood
+8,,Egypt,,Kabul,,Afghanistan,,,Egypt
+9,,,,Egypt,,Kabul,,,
+10,,,,,,Egypt,,,

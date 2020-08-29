@@ -1,0 +1,30 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,President Martin Torrijos,the Ibero-American Summit,Pakistan's Foreign,diabetes,Cuban,Panamanian,Panama,Panama,Panama
+1,Institute for Science and International Security,Panama,Panamanian,Panama,Panama,Cuban,Institute for Science and International Security,Institute for Science and International Security,Panama City
+2,American Diabetes Association,Panama City,Cuban,Lieutenant General,Institute for Science and International Security,Panama,Panama City,Panama City,The American Diabetes Association
+3,Vice President Carlos Lage,The American Diabetes Association,Panama,Institute for Science and International Security,Panama City,Panama City,Martin Torrijos,Martin Torrijos,The Institute for Science and International Security
+4,Foreign Ministry,The Institute for Science and International Security,Panama City,Panama City,Martin Torrijos,Martin Torrijos,Havana,Havana,Martin Torrijos
+5,Pakistan,Martin Torrijos,General Dan Halutz,Martin Torrijos,Havana,Havana,American Diabetes Association,American Diabetes Association,Havana
+6,President Fidel Castro,Havana,Havana,Havana,American Diabetes Association,American Diabetes Association,Foreign Ministry,Foreign Ministry,Foreign Ministry
+7,Amy Katz,Foreign Ministry,Martin Torrijos,American Diabetes Association,Foreign Ministry,Science,Pakistan,Pakistan,Pakistan
+8,June Soh,Pakistan,Pakistan's,Khushab district,Pakistan,Foreign Ministry,Dan Halutz,Amy Katz,Dan Halutz
+9,Costa Rica,Dan Halutz,American Diabetes Association,Pakistan,Amy Katz,Pakistan,Punjab,Dan Halutz,Costa Rica
+10,Punjab,June Soh,Amy Katz,San Jose Costa Rica,Dan Halutz,San,Fidel Castro,Punjab,Fidel Castro
+11,Organization of American States,Costa Rica,San Jose Costa Rica,Dan Halutz,Punjab,Punjab,Organization of American States,Fidel Castro,Amy Katz Narrates
+12,Khushab,Fidel Castro,of American,nuclear reactor,Fidel Castro,Fidel Castro,Mireya Moscoso,Organization of American States,Mireya Moscoso
+13,President Mireya Moscoso,Amy Katz Narrates,Fidel Castro,Fidel Castro,Mireya Moscoso,Amy Katz Narrates,Khushab,Mireya Moscoso,Soh
+14,Cuba,Mireya Moscoso,Mireya Moscoso,Organization of American States,Soh,August,Katz Narrates,Soh,Khushab
+15,VOA,Khushab,Soh,Ibero-American Summit,Khushab,Mireya Moscoso,Cuba,Khushab,Cuba
+16,Adam,Cuba,Khushab,Mireya Moscoso,Israeli,International,Carlos Lage,Israeli,Carlos Lage
+17,Tasnim Aslam,Carlos Lage,Cuba,Khushab,Cuba,American States,VOA,Cuba,VOA
+18,Lieutenant General Dan Halutz,VOA,Carlos Lage,Cuba,Carlos Lage,Khushab,Adam,Carlos Lage,Adam
+19,San Jose,Adam,for Science,Carlos Lage,VOA,Rica,Tasnim Aslam,VOA,Tasnim Aslam
+20,,Tasnim Aslam,Adam,Cuban President,Adam,Israeli,San Jose Costa Rica,Adam,the Organization of American States
+21,,the Organization of American States,Tasnim Aslam,Punjab province,Tasnim Aslam,Cuba,,San Jose Costa Rica,Punjab province
+22,,Punjab province,Punjab province,,San Jose Costa Rica,Carlos Lage,,,San Jose
+23,,San Jose,International Security,,,VOA,,,
+24,,,,,,Institute,,,
+25,,,,,,Adam,,,
+26,,,,,,Tasnim Aslam,,,
+27,,,,,,Organization,,,
+28,,,,,,Lieutenant General Dan Halutz,,,

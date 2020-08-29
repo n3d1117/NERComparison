@@ -1,0 +1,10 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Dianne Sawyer,Dianne Sawyer,The,painkiller,Dianne Sawyer,TRUE,Dianne Sawyer,Dianne Sawyer,Dianne Sawyer
+1,New Jersey,New Jersey,Dianne Sawyer,Merck,New Jersey,Dianne Sawyer,New Jersey,TRUE,New Jersey
+2,Merck,Merck,Merck,Nicole Ritchie,Merck,New Jersey,Merck,New Jersey,Merck
+3,Nicole Ritchie,Nicole Ritchie,Nicole Ritchie,heart attack,Nicole Ritchie,Merck,Nicole Ritchie,Merck,Nicole Ritchie
+4,U.S.,U.S.,ABC,Vioxx,U.S.,Nicole Ritchie,U.S.,Nicole Ritchie,U.S.
+5,Vioxx,The Simple Life,Vioxx,ABC News,Vioxx,Simple Life,Vioxx,TV,Vioxx
+6,ABC News,ABC News,Jersey,,ABC News,U.S.,ABC News,U.S.,ABC News
+7,,,,,,Vioxx,,ABC News,
+8,,,,,,ABC News,,,

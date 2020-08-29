@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,CDC,CDC,U.S,CDC,CDC,Pakistani,CDC,Pakistani,CDC
+1,Asia,Asia,CDC,Luis Posada Carriles,Asia,CDC,Asia,Asia,Asia
+2,Luis Posada Carriles,Luis Posada Carriles,Asia,Shi'ite Muslim,Luis Posada Carriles,Asia,Luis Posada Carriles,Luis Posada Carriles,Luis Posada Carriles
+3,United States,Musharraf,Luis Posada Carriles,bird flu,Musharraf,Luis Posada Carriles,Musharraf,U.S. Centers for Disease Control,Musharraf
+4,Shi'ite Muslim,Posada Carriles,Musharraf,Cuba,U.S. Centers for Disease Control,Musharraf,U.S. Centers for Disease Control,Cuba,Posada Carriles
+5,President Pervez Musharraf,Cuba,Cuban,U.S. immigration judge,United States,Cuban,United States,U.S.,Cuba
+6,Posada Carriles,U.S.,U.S . Centers for Disease,Pervez Musharraf,Shi'ite Muslim,Pakistanis,Posada Carriles,Pervez Musharraf,U.S.
+7,Cuba,Pervez Musharraf,United States,broadcast address,Posada Carriles,United States,Cuba,CIA,Posada
+8,General Musharraf,Pakistan,Posada Carriles,Islamic militant,Cuba,Posada Carriles,U.S.,Venezuela,Carriles
+9,Centers for Disease Control,the U.S. Centers for Disease Control,Cuba,CIA,U.S.,Cuba,Pervez Musharraf,Mexico,Pervez Musharraf
+10,Pakistan,CIA,General Musharraf,Venezuela,Pervez Musharraf,U.S.,Pakistan,,Pakistan
+11,CIA,Venezuela,Pervez Musharraf,Mexico,Pakistan,Pervez Musharraf,CIA,,the U.S. Centers for Disease Control
+12,Venezuela,Mexico,Pakistan,,CIA,Pakistan,Venezuela,,CIA
+13,Mexico,the United States,CIA,,Venezuela,Islamic,Mexico,,Venezuela
+14,,,Venezuela,,Mexico,CIA,,,Mexico
+15,,,Mexico,,,Venezuela,,,the United States
+16,,,,,,Mexico,,,
+17,,,,,,Disease Control,,,

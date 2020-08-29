@@ -1,0 +1,14 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Federconsumatori,Luz Philipp,Trento,Federconsumatori,Trento,Federconsumatori,Federconsumatori
+1,Luz Philipp,Trentofrutta,Enrico Bondi .,Trento,Luz Philipp,Luz Philipp,Luz Philipp
+2,federconsumatori,Comune di Trento,Luz Philipp,federconsumatori,Prg,federconsumatori,Comune di Trento
+3,Trentofrutta,Prg,federconsumatori,lamponi,Enrico Bondi,Trentofrutta,Prg
+4,Enrico Bondi,Enrico Bondi,Trentofrutta,fragole,Parmalat,Comune di Trento,Enrico Bondi
+5,Parmalat,Parmalat,Parmalat,Prg,via Degasperi,provincia,Parmalat
+6,via Degasperi,via Degasperi,Armin,albicocche,Primo Murru,Enrico Bondi,via Degasperi
+7,Primo Murru,«,Alessandro Andreatta,Enrico Bondi,Armin,Parmalat,Alessandro Andreatta
+8,Armin,Primo Murru,,ribes nero,Alessandro Andreatta,via Degasperi,Armin
+9,Alessandro Andreatta,Armin,,Parmalat,,Primo Murru,Primo Murru
+10,,Alessandro Andreatta,,euro,,Armin,
+11,,,,mirtilli,,Alessandro Andreatta,
+12,,,,Alessandro Andreatta,,,

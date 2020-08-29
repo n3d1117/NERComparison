@@ -1,0 +1,28 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Museo Civico di Storia Naturale,Catanzaro,Catanzaro,Federconsumatori,Catanzaro,Catanzaro,Catanzaro
+1,Domenica Targa,«IDRA»,Dipartimento,Catanzaro,frazione San Bernardo,Museo Civico di Storia Naturale,Dipartimento di Ingegneria civile
+2,Federconsumatori,Prealpi,Prealpi,Forli,Stelvio,Ufficio Stampa Parco Nazionale dello Stelvio,Museo Civico di Storia Naturale
+3,Società Italiana di Biogeografia,Centro,Nazionale dello Stelvio .,Genova,Centro,Italia,Centro Universitario per la Difesa Idrogeologica dell'Ambiente Montano
+4,Parco Nazionale dello Stelvio,Ufficio Stampa Parco Nazionale dello Stelvio,Italia,Trento,Stampa Parco Nazionale,Domenica Targa,Federconsumatori
+5,SIC,Difesa Idrogeologica dell'Ambiente Montano,Federconsumatori,IDRA,Alpina,Federconsumatori,Forli
+6,Ufficio Stampa,Italia,Biogeografia,Ingegneria civile,Italia,Società Italiana di Biogeografia,Genova
+7,Mauro Gilmozzi,Siti,San Bernardo,Biogeografia,Siti,Parco Nazionale dello Stelvio,Parco Nazionale dello Stelvio
+8,Siti di interesse comunitario,Federconsumatori,Vilazan,Zalla,Federconsumatori,San Bernardo,Italiana
+9,Alessandro Gretter,Forli,Mauro Gilmozzi,Parco Nazionale dello Stelvio,Società Italiana di Biogeografia,SIC,San Bernardo
+10,Quei de Vilazan,Parco Nazionale dello Stelvio,Difesa,Targa,Centro Polifunzionale,Mauro Gilmozzi,Centro Polifunzionale
+11,Università di Trento,Museo Civico di Storia Naturale di Verona,Trento,Napoli,SIC,Siti di interesse comunitario,SIC
+12,Dipartimento di Ingegneria civile e ambientale,SIC,Stampa Parco Nazionale dello Stelvio - 335.8654450,Università di Trento,Mauro Gilmozzi,Trento,Mauro Gilmozzi
+13,Madonna,Mauro Gilmozzi,Alessandro Gretter,Italia,Trento,Alessandro Gretter,Trento
+14,Tirreno,»,Vasto Napoli Genova Forli,Centro di Ecologia Alpina,IDRA,Vasto Napoli Genova Forli,Vasto
+15,Centro Universitario per la Difesa Idrogeologica dell' Ambiente Montano,Trento,Montano,,Vasto Napoli Genova Forli,Quei de Vilazan,Alessandro Gretter
+16,CUDAM,San Bernardo al Centro Polifunzionale,Verona,,Quei de Vilazan,Università di Trento,Quei de Vilazan
+17,Paola Zalla,Alessandro Gretter,Ingegneria,,Alessandro,Verona,Università di Trento
+18,Centro di Ecologia Alpina,Quei de Vilazan,Stampa Parco Nazionale dello Stelvio,,Verona,Dipartimento di Ingegneria civile e ambientale,Verona
+19,,Università di Trento,Tirreno,,Madonna,Madonna,Tirreno
+20,,Dipartimento di Ingegneria civile e ambientale,348.4900515,,Tirreno,Tirreno,Napoli
+21,,Madonna,Centro Universitario,,Museo Civico,Centro Universitario per la Difesa Idrogeologica dell' Ambiente Montano,Paola Zalla
+22,,Tirreno,Alpi,,Parco Nazionale,CUDAM,Centro di Ecologia Alpina
+23,,Centro Universitario,Società Italiana,,Centro Universitario,Paola Zalla,
+24,,Alpi,CUDAM,,Alpi,Centro di Ecologia Alpina,
+25,,Paola Zalla,Paola Zalla,,Paola Zalla,,
+26,,Centro di Ecologia Alpina,,,Centro di Ecologia Alpina,,

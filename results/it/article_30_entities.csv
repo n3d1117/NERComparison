@@ -1,0 +1,21 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Nicole Kidman,«Ovunque,Barbora,Nicole Kidman,Nicole Kidman,Nicole Kidman,Letterman
+1,Letterman,Nicole Kidman,Letterman,Dreamworks,Clooney,Letterman,Giuliano Urbani
+2,Giuliano Urbani,«Shark Tale,Giuliano Urbani,Violante Placido,Kidman,Giuliano Urbani,Shannon
+3,Shannon,Letterman,superdiva,premio Oscar,Violante Placido,Shannon,Clooney No party
+4,Urbani,Violante Placido,Piazza San,Jeffrey Katzenberg,Jeffrey Katzenberg,Urbani,Urbani
+5,Anna,Jeffrey Katzenberg,Birth,Piazza San Marco,Urbani,Ossezia,Ossezia
+6,Michele,Piazza San Marco,Ossezia,Giuliano Urbani,Piazza San Marco,Anna,Anna
+7,Kidman,Giuliano Urbani,Anna,Shark Tale,Giuliano Urbani,Michele,Michele
+8,Dreamworks,Ossezia,Michele,Angelina Jolie,Placido,Kidman,Dreamworks
+9,Nicole,Anna,Shannon . No Clooney,Ovunque sei,Anna,Dreamworks,Nicole
+10,Robert De Niro,Shannon,Kidman,Barbora Bobulova,Shannon,Nicole,Robert De Niro
+11,Jonathan Glazer,Beni,Nicole,Robert De Niro,Oscar,Jonathan Glazer,Jonathan Glazer
+12,Clooney,Michele,Jonathan Glazer,Will Smith,Michele,Clooney,Violante Placido
+13,Violante Placido,Barbora Bobulova,superdiva Nicole Kidman,Jonathan Glazer,Robert De Niro Angelina Jolie Will Smith,Violante Placido,Jeffrey Katzenberg
+14,Jeffrey Katzenberg,Kidman,Violante Placido,,Barbora Bobulova,Jeffrey Katzenberg,Piazza San Marco
+15,Piazza San Marco,Robert De Niro,Jeffrey Katzenberg,,Nicole,Piazza San Marco,Placido
+16,Placido,Jonathan Glazer,Piazza San Marco,,Jonathan Glazer,Placido,Angelina Jolie
+17,Angelina Jolie,,Placido,,,Robert De Niro Angelina Jolie Will Smith,Barbora Bobulova
+18,Barbora Bobulova,,Oscar,,,Barbora Bobulova,Will Smith
+19,Will Smith,,Robert De Niro Angelina Jolie Will Smith,,,,

@@ -1,0 +1,24 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,President Levy Mwanawasa,Zambia,Bill Clinton's,Zambia,Zambia,Zambia,Zambia,Zambian,Zambia
+1,President Mahmoud Ahmadinejad,Mahmoud Ahmadinejad,Mr,Mahmoud Ahmadinejad,Barack Obama,Mahmoud Ahmadinejad,Mahmoud Ahmadinejad,Mahmoud Ahmadinejad,Barack Obama
+2,President Barack Obama,France,Barack Obama,France,National Economic Council,Barack Obama,France,Barack Obama,Mike Mulongoti
+3,France,Barack Obama,France,Barack Obama,Mike Mulongoti,National Economic Council,Barack Obama,Bill Clinton,Egypt
+4,President Robert Mugabe,Mwanawasa,National Economic Council,Southern African Development Community,Egypt,Southern African,Mwanawasa,France,Harare
+5,Southern African Development Community,Harare,Mwanawasa,Harare,Bill Clinton,Mike Mulongoti,Harare,Southern African Development Community,U.S.
+6,Mr. Mwanawasa,African Union,Harare,African Union,Harare,Egypt,African Union,African Union,Levy Mwanawasa
+7,African Union,the Southern African Development Community,Southern African Development Community,U.S. President,U.S.,Bill Clinton,Southern African Development Community,National Economic Council,Bill Clinton's
+8,National Economic Council,Bill Clinton,Zimbabwe,National Economic Council,Levy Mwanawasa,Harare,National Economic Council,Harare,the Southern African Development Community
+9,Zimbabwe,Zimbabwe,Robert Mugabe,Bill Clinton,Southern African Development Community,U.S.,Bill Clinton,Zimbabwe,Paris
+10,President Mwanawasa,U.S.,African,Zimbabwe,Mr. Mwanawasa,Levy Mwanawasa,Zimbabwe,U.S.,the National Economic Council
+11,Paris,Robert Mugabe,Paris,Robert Mugabe,Paris,Zambian,U.S.,Robert Mugabe,Mahmoud Ahmadinejad's
+12,Sperling,the National Economic Council,Gene Sperling,hypertension,Sperling,Mr. Mwanawasa,Robert Mugabe,Paris,Sperling
+13,Gene Sperling,Paris,Mahmoud Ahmadinejad's,Gene Sperling,Mwanawasa,Paris,Paris,Gene Sperling,Mwanawasa
+14,Information Minister Mike Mulongoti,Gene Sperling,Sperling,Levy Mwanawasa,France,Mwanawasa,Gene Sperling,Levy Mwanawasa,France
+15,President Bill Clinton,Levy Mwanawasa,Levy Mwanawasa,Egypt,African Union,Zimbabwean,Levy Mwanawasa,Mike Mulongoti,African Union
+16,Egypt,Mike Mulongoti,Mike Mulongoti,,Zimbabwe,TRUE,Mike Mulongoti,Egypt,Zimbabwe
+17,,Egypt,Egypt,,Robert Mugabe,France,Egypt,,Robert Mugabe
+18,,,,,Gene Sperling,African Union,,,Gene Sperling
+19,,,,,Mahmoud Ahmadinejad,Zimbabwe,,,
+20,,,,,,Robert Mugabe,,,
+21,,,,,,Gene Sperling,,,
+22,,,,,,FALSE,,,

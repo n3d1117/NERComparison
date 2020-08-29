@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Gaza,Gaza,Somalia,Ismail Haniyeh,Gaza,Gaza,Gaza,Africa,Gaza
+1,Africa,Ghormley,However,Palestinian President,Africa,Africa,Africa,Ismail Haniyeh,Africa
+2,Israel,Ismail Haniyeh,Gaza,Fatah,Ghormley,Ghormley,Ghormley,Hamas,Ghormley
+3,Hamas,Israel,Africa,Israel,Ismail Haniyeh,Ismail Haniyeh,Ismail Haniyeh,U.S.,Ismail Haniyeh
+4,West Bank,Hamas,Ghormley,Hamas,Israel,Israel,Israel,West Bank,Israel
+5,Iraq,U.S.,Fatah Party,east Africa,Hamas,Hamas,Hamas,Horn of Africa,Hamas
+6,Thailand,east Africa,Timothy Ghormley,West Bank,U.S.,U.S.,U.S.,Iraq,U.S.
+7,President Mahmoud Abbas,West Bank,Mahmoud Abbas,Horn of Africa,Aqsa Martyrs'Brigades,West Bank,West Bank,Thailand,West Bank
+8,Gaza Strip,the Horn of Africa,Ismail Haniyeh Friday,Iraq,West Bank,Iraq,Iraq,Palestinians,the Horn of Africa
+9,Horn,Iraq,However U.S,Thailand,Iraq,Thailand,Muslim-majority,al-Aqsa Martyrs'Brigades,Iraq
+10,Afghanistan,Thailand,Horn,Palestinians,Thailand,Gaza Strip,Thailand,Gaza Strip,Thailand
+11,Nablus,Gaza Strip,Aqsa,al-Aqsa Martyrs'Brigades,Gaza Strip,Horn,Gaza Strip,Afghanistan,Gaza Strip
+12,Prime Minister Ismail Haniyeh,Afghanistan,West Bank,Gaza Strip,Afghanistan,Afghanistan,Afghanistan,Nablus,Afghanistan
+13,Somalia,Nablus,Afghanistan,Muslim,Nablus,Nablus,Nablus,Palestinian,Nablus
+14,General Ghormley,Somalia,Djibouti,Afghanistan,Somalia,Palestinian,Somalia,Somalia,Somalia
+15,Fatah Party,Fatah Party,Israel,Prime Minister,Fatah Party,Somalia,Timothy Ghormley,Timothy Ghormley,Fatah Party
+16,Major General Timothy Ghormley,Timothy Ghormley,Nablus,Nablus,Timothy Ghormley,Fatah Party,Mahmoud Abbas,Fatah Party,Timothy Ghormley
+17,al-Aqsa Martyrs ' Brigades,Mahmoud Abbas,Iraq,Somalia,Mahmoud Abbas,Major General Timothy Ghormley,mainstream Fatah Party,Mahmoud Abbas,Mahmoud Abbas
+18,Djibouti,Djibouti,,Mahmoud Abbas,Israeli,Mahmoud Abbas,Djibouti,Israeli,Djibouti
+19,,,,Djibouti,Djibouti,Israeli,,Djibouti,the al-Aqsa Martyrs'Brigades
+20,,,,,,Djibouti,,,

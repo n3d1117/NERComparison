@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Pinzolo Campiglio,Massimiliano Ceraso,Massimiliano Ceraso,Monte Baldo,Massimiliano Ceraso,Massimiliano Ceraso,Massimiliano Ceraso
+1,Istituto Luce,Pinzolo Campiglio,Pinzolo Campiglio,mina,Pinzolo Campiglio,MARCO FONTANA,MARCO FONTANA
+2,Pieve di Bono,Monte Baldo,Monte Baldo,Addeo,Monte Baldo,Monte Baldo,Monte Baldo
+3,Benacense,»,Biennale,Istituto Luce,Di MARCO FONTANA,Pinzolo Campiglio,Pinzolo Campiglio
+4,Borgo,Istituto Luce,Dro,Pieve di Bono,Bono,Istituto Luce,Istituto Luce
+5,MARCO FONTANA,Calcio Bleggio,Calavino,Dro,dell'Istituto Luce,Calcio Bleggio,Calcio Bleggio
+6,Calavino,Pieve di Bono,Bono,Rovereto,Borgo,Benacense Arco Rovereto,Dro
+7,Ceraso,Biennale «,Borgo,Pinzolo,Isera,Pieve di Bono,Calavino
+8,Biennale,Calavino,Torbole,Torbole,Pietro Addeo,Biennale,Borgo
+9,Rovereto,Borgo,Bleggio,Isera,Benacense Arco Rovereto,Dro,Torbole
+10,Pietro Addeo,Torbole,Benacense Arco Rovereto,Calavino,,Calavino,Isera
+11,Promozione,Isera,Pietro Addeo,,,Borgo,Pietro Addeo
+12,Monte Baldo,Pietro Addeo,Promozione,,,Torbole,Ceraso
+13,Calcio Bleggio,Benacense Arco Rovereto,,,,Isera,Benacense Arco Rovereto
+14,Torbole,,,,,Pietro Addeo,
+15,Isera,,,,,Ceraso,
+16,Arco,,,,,Promozione,
+17,Massimiliano Ceraso,,,,,,
+18,Dro,,,,,,

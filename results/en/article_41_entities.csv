@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,EU,EU,EU,southern Africa,EU,Autonomy,EU,British,EU
+1,Saud Aziz,Saud Aziz,Saud Aziz,EU,Saud Aziz,British,Saud Aziz,Africa,Saud Aziz
+2,South America,South America,South America,South America,South America,Africa,South America,Gilgit,South America
+3,United Democratic Party,Africa,Autonomy,Shi'ite,Autonomy,Gilgit,Africa,Baltic,Lashkar-e-Jhangvi
+4,Shi'ite,A.D.,British,Lashkar-e-Jhangvi,Africa,Baltic,Agha Ziauddin,al-Qaida,Africa
+5,Africa,Agha Ziauddin,Africa,least developed countries,Agha Ziauddin,Sunni Muslim,Latvia,EU,Agha Ziauddin
+6,Agha Ziauddin,Latvia,Agha Ziauddin,Latvia,Latvia,EU,Rawalpindi,South America,Latvia
+7,Latin America,The African United Democratic Party,Latvia,Latgalians,A.D,South America,Gilgit,Swazis,The African United Democratic Party
+8,Latgalians,Rawalpindi,Rawalpindi,Rawalpindi,MSWATI III,Swazis,Bolivia,Agha Ziauddin,Rawalpindi
+9,Rawalpindi,Gilgit,Gilgit,Gilgit,Rawalpindi,Agha Ziauddin,NATO,Latvia,Gilgit
+10,Gilgit,Bolivia,Bolivia,Baltic tribes,Gilgit,Latvia,African United Democratic Party,MSWATI III,Bolivia
+11,Shi'ite Muslims,NATO,Latvian,NATO,Bolivia,Latvian,Latin America,Latgalians,NATO
+12,NATO,Nevertheless Bolivia,Baltic,Bolivia,Latvian,NATO,,NATO,al-Qaida
+13,Baltic,King MSWATI III,NATO,al-Qaida,Baltic,African United Democratic Party,,African United Democratic Party,Latin America
+14,King MSWATI III,al-Qaida,Nevertheless Bolivia,Latin America,NATO,Pakistani,,Pakistani,
+15,al-Qaida,Latin America,King MSWATI,Sunni Muslim,Jhangvi,Saud Aziz,,A.D.,
+16,Sunni Muslim Lashkar-e-Jhangvi,,African United Democratic Party,,African United Democratic Party,Rawalpindi,,Rawalpindi,
+17,,,Latin America,,Latin America,Bolivia,,Bolivia,
+18,,,,,,Nevertheless Bolivia,,Lashkar-e-Jhangvi,
+19,,,,,,Latin America,,Shi'ite Muslims,
+20,,,,,,,,Latin America,

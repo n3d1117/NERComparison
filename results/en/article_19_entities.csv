@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,WHO,Paul Volcker,Paul Volcker,alHurra,Paul Volcker,alHurra,U.N.,alHurra,alHurra
+1,Saddam,WHO,WHO,Paul Volcker,Saddam,U.N.,U.S. Federal Reserve,U.N.,WHO
+2,U.N.,Saddam,Saddam,Federal Reserve Chairman,U.N.,United Nations,Baghdad,Baghdad,Saddam
+3,Baghdad,U.N.,United Nations Security,U.S. Federal Reserve,Iraqi,Baghdad,U.S. Defense Department,Iraq,U.N.
+4,Defense Department,U.S. Federal Reserve,Former U.S . Federal,2003 invasion of Iraq,U.S. Federal Reserve,Egypt,the World Health Organization,U.S. Defense Department,U.S. Federal Reserve
+5,Federal Reserve,Baghdad,Baghdad,Baghdad,Baghdad,Security Council,U.S.,Federal Reserve,Baghdad
+6,government-funded,the United Nations Security Council,U.S .,U.S. Defense Department,U.S. Defense Department,U.S.,Associated Press,U.S.,the United Nations Security Council
+7,Mr. Volcker,U.S. Defense Department,Press,avian flu,U.S.,Mr. Volcker,United Nations Security Council,Associated Press,U.S. Defense Department
+8,Associated Press,the World Health Organization,World Health Organization,bird flu,Mr. Volcker,Saddam Hussein,Volcker,Human Rights Watch,the World Health Organization
+9,World Health Organization,U.S.,U.S . Defense Department,oil-for-food program,Associated Press,Paul Volcker,Saddam Hussein,United Nations Security Council,U.S.
+10,United Nations Security Council,Volcker,Volcker,Associated Press,World Health Organization,Iraq,Asia,Saddam Hussein,Volcker
+11,Saddam Hussein,The Associated Press,Saddam Hussein,World Health Organization,United Nations Security Council,Associated,Paul Volcker,Asia,The Associated Press
+12,Chairman Paul Volcker,Saddam Hussein,Asia,United Nations Security Council,Saddam Hussein,World,Iraq,Paul Volcker,Saddam Hussein
+13,Asia,Asia,Human Rights Watch,Saddam Hussein,Asia,Iraqi,Egypt,World Health Organization,Asia
+14,Human Rights Watch,Human Rights Watch,Iraq,Human Rights Watch,Human Rights Watch,Saddam,,Egypt,Paul Volcker
+15,Iraq,Iraq,Egypt,Iraq,Iraq,Defense Department,,,Iraq
+16,Egypt,Egypt,,Egypt,Egypt,Egyptian,,,Egypt
+17,,,,,,Asia,,,
+18,,,,,,Human Rights Watch,,,

@@ -1,0 +1,17 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Campo,Campo,regionale,Predaia,Trento,Campo,Campo
+1,Camera di Commercio,Camera di Commercio,Trento,alto gradimento,Predaia,Camera di Commercio,Trento
+2,Predaia,Predaia,Camera,provincia di Bolzano,Camera di Commercio,Predaia,Predaia
+3,Commissione per le cooperative,Alta Vallagarina,Le,provincia di Trento,Camera di commercio,Commissione per le cooperative,Calcio Bleggio
+4,Alta Vallagarina,Calcio Bleggio,Commercio,Vallagarina,Taio,Alta Vallagarina,Alta
+5,Calcio Bleggio,Camera di commercio,Bolzano,Brennero,Bolzano,Calcio Bleggio,Camera di commercio
+6,Camera di commercio,Taio,Calcio,Provincia di Trento,via Brennero,Camera di commercio,Taio
+7,commissione,Province autonome,Provincia di Trento,,Condinese,Taio,Bolzano
+8,Commissione regionale per la cooperazione,provincia di Bolzano,Vallagarina,,Franco Pistolato,commissione,Provincia di Trento
+9,Condinese,provincia di Trento,Province,,,provincia di Bolzano,Vallagarina
+10,via Brennero 136,Cooperazione,Condinese,,,Commissione regionale per la cooperazione,supplente
+11,Franco Pistolato,Provincia di Trento,Franco Pistolato,,,provincia di Trento,via Brennero 136
+12,,Registro,,,,Provincia di Trento,Franco Pistolato
+13,,Condinese,,,,Condinese,
+14,,Commissione,,,,via Brennero 136,
+15,,Franco Pistolato,,,,Franco Pistolato,

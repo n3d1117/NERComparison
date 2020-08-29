@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Center for Constitutional Rights,Kandahar province,U.S,Kandahar province,Baghdadi,Pakistani,Kandahar,Pakistani,Kandahar
+1,Brigadier General Thomas Hemingway,Meantime Center for Constitutional Rights,Kandahar province,Center for Constitutional Rights,Kandahar,American,Meantime Center for Constitutional Rights,Kandahar,Center for Constitutional Rights
+2,Army,Air Force Brigadier,Iraqi,Brigadier General,Meantime Center for Constitutional Rights,Iraqi,Baghdad,Center for Constitutional Rights,Baghdad
+3,Baghdad,Baghdad,Baghdad,Baghdad,Iraqi,Air Force Brigadier,Iraqi army,Iraqi,Cuba
+4,Cuba,al-Baghdadi,Afghan,Iraqi army,Baghdad,Baghdad,Air Force,Cuba,al-Baghdadi
+5,al-Baghdadi,U.S.,Qaida,al-Qaida in Iraq,Air Force,Afghan,U.S.,al-Baghdadi,U.S.
+6,Guantanamo Bay,Afghan Army,Air Force,hunger strike,U.S.,U.S.,Afghan Army,U.S.,Guantanamo Bay
+7,Taleban,Taleban,Constitutional Rights,landmine,Afghan Army,Constitutional Rights,Guantanamo,Guantanamo Bay,Afghan Army
+8,Sunni,Thomas Hemingway,Afghan Army,Afghan Army,Guantanamo,Afghan Army,Thomas Hemingway,Afghan Army,Taleban
+9,Guantanamo,al-Qaida,Taleban,fictional character,Thomas Hemingway,Meantime Center,Afghanistan,Taleban,Thomas Hemingway
+10,Afghanistan,Afghanistan,Meantime,Taleban,Afghanistan,Taleban,Guantanamo Bay Cuba,Thomas Hemingway,al-Qaida
+11,al-Qaida,Guantanamo Bay Cuba,Guantanamo,Sunni,Guantanamo Bay Cuba,Sunni,Iraq,al-Qaida,Afghanistan
+12,Air Force,Iraq,Afghanistan's,Guantanamo,Iraq,Guantanamo,Kevin Bergner,Afghanistan,Air Force
+13,Iraq,Kevin Bergner,Afghanistan,Thomas Hemingway,Kevin Bergner,Thomas Hemingway,,Air Force,Iraq
+14,General Kevin Bergner,,General Thomas Hemingway,Afghanistan,,Afghanistan,,Kevin Bergner,Kevin Bergner
+15,Kandahar,,Guantanamo Bay Cuba,Guantanamo Bay Cuba,,Iraq,,,
+16,,,Iraq,,,General Kevin Bergner,,,
+17,,,Kevin Bergner,,,Kandahar,,,

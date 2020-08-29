@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Enpals,Enpals,Banca d'Italia,Enpals,Banca d'Italia,Enpals,Enpals
+1,Camere di Commercio,Camere di Commercio,Trento,Banca d'Italia,Aran,servizio sanitario,Trento
+2,IACP,IACP,Rai,Trento,Romagnano,Ravina,Aran
+3,Aran,Stato,Romagnano,Consob,Comunità Montane,Aran,Rai
+4,Banca d' Italia,Ravina,Commercio,Rai,Ferrovie,Banca d' Italia,Romagnano
+5,Agenzie fiscali,Aran,Stato,valutazione di impatto ambientale,Silvano Grisenti,Agenzie fiscali,Ago
+6,Ufficio italiano cambi,Ufficio italiano,Province,servizio sanitario nazionale,Consob Isvap Antitrust etc,IACP le Camere di Commercio industria,Ferrovie
+7,Ipost,Comunità Montane,all'assessore Silvano Grisenti,IACP,Trento sud,Ufficio italiano cambi,Ipost
+8,Silvano Grisenti,Ipost,all'assessore,Ufficio italiano cambi,Ravina,Comunità Montane,Silvano Grisenti
+9,Trento sud,Silvano Grisenti,Ravina,enti pubblici non economici,Camere di Commercio,Ipost,Consob Isvap Antitrust
+10,Inpdap,Stato ivi compresi gli Istituti,Comunità,Comunità Montane,,Silvano Grisenti,Ravina
+11,Rai,Inpdap,Regioni,Ipost,,Trento sud,Italia
+12,servizio sanitario nazionale,Banca d'Italia,,Camere di Commercio industria artigianato e agricoltura,,Consob Isvap Antitrust,Inpdap
+13,consiglio circoscrizionale,Trento,,Antitrust,,circoscrizione,
+14,Ferrovie,Rai,,amministrazioni pubbliche,,Inpdap,
+15,Antitrust,Ferrovie,,Ravina,,Rai,
+16,Autorità indipendenti,Ago»,,Inpdap,,consiglio circoscrizionale,
+17,Consob,Ago,,Isvap,,Ferrovie,
+18,Ago,Regioni le Province i Comuni,,,,Autorità indipendenti,
+19,ministero,Romagnano,,,,ministero,
+20,Isvap,,,,,Romagnano,

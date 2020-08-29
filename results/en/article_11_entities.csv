@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia,Ahmed Qureia
+1,Northern Command,George Bush,U.S,George Bush,George Bush,George Bush,George Bush,George Bush,George Bush
+2,President Mahmoud Abbas,Bush,George Bush,Northern Command,Israeli-Palestinian,Israeli-Palestinian,Bush,Northern Command,Bush
+3,President George Bush,Northern Command,Mr,Mahmoud Abbas,Mahmoud Abbas,Northern Command,Northern Command,Mahmoud Abbas,Northern Command
+4,Prime Minister Ehud Olmert,Mahmoud Abbas,Bush,Israeli Prime Minister,Israeli,Mahmoud Abbas,Mahmoud Abbas,Israeli,Mahmoud Abbas
+5,General Adam,the West Bank,Mahmoud Abbas,Palestinian President,U.S.,Israeli,U.S.,U.S.,the West Bank
+6,West Bank,U.S.,Israeli,Udi Adam,Udi Adam,U.S.,General Adam,Udi Adam,U.S.
+7,Major General Udi Adam,Udi Adam,Command,Ehud Olmert,Ehud Olmert,General Adam,Udi Adam,Ehud Olmert,Udi Adam
+8,Adam,Ehud Olmert,Ehud Olmert,West Bank,West Bank,Ehud Olmert,Ehud Olmert,West Bank,Ehud Olmert
+9,Israel,Adam,West Bank,Hezbollah,Adam,West Bank,West Bank,Hezbollah,Adam
+10,Mr. Bush,Israel,Adam,Israel,Hezbollah,Major General Udi Adam,Israel,Palestinian,Israel
+11,Qureia,Qureia,Israel,Major General,Israel,Adam,Qureia,Lebanon,Qureia
+12,Hezbollah,Hezbollah,Qureia,Palestinian,Mr. Bush,Israel,Hezbollah,,Hezbollah
+13,Lebanon,Lebanon,Lebanon,Lebanon,Qureia,Mr. Bush,Lebanon,,Lebanon
+14,,,,,Palestinian,Qureia,,,
+15,,,,,Lebanon,Hezbollah,,,
+16,,,,,,Palestinian,,,
+17,,,,,,Lebanon,,,

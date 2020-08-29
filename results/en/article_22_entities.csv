@@ -1,0 +1,15 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Lord 's Resistance Army,Bush,Bush,pardon,Bush,Bush,Bush,Bush,Bush
+1,President Bush,China,International,Lord's Resistance Army,Chinese,Chinese,China,China,China
+2,Kony,Kony,China,freedom of religion,China,China,Lord 's Resistance Army,Lord's Resistance Army,Kony
+3,Liu,U.S.,Lord's Resistance Army,Uganda's government,Lord's Resistance Army,Kony,Kony,U.S.,U.S.
+4,LRA,Liu,White,U.S. president,Kony,U.S.,U.S.,Joseph Kony,Liu
+5,Joseph Kony,Joseph Kony,Kony,clemency,U.S.,Resistance Army,Joseph Kony,Liu,LRA
+6,International Criminal Court,the International Criminal Court,Liu,Joseph Kony,Liu,Liu,LRA,International Criminal Court,Joseph Kony
+7,Mr. Bush,the Lord's Resistance Army,LRA,International Criminal Court,LRA,LRA,the International Criminal Court,Uganda,the International Criminal Court
+8,Uganda,Uganda,Joseph Kony,Sudan,Joseph Kony,Joseph Kony,Uganda,Sudan,the Lord's Resistance Army
+9,Sudan,Sudan,Uganda,White House,International Criminal Court,International Criminal Court,Sudan,White House,Uganda
+10,White House,White House,Sudan,,Mr. Bush,Lord,White House,,Sudan
+11,,,,,Uganda,Mr. Bush,,,White House
+12,,,,,Sudan,Uganda,,,
+13,,,,,White House,Sudan,,,

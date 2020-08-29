@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Foreign Trade Minister Anne-Marie Idrac,France,France's Aigle,France,France,France,France,France,France
+1,United Nations,Kyrgyzstan,Kyrgyzstan's,first Gulf War,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Anne-Marie Idrac,Kyrgyzstan
+2,Bishkek,Charles De Gaulle,Baghdad,Kyrgyzstan,Iraqi,Iraqi,Anne-Marie Idrac,Kyrgyzstan,Anne-Marie Idrac
+3,Baghdad,Interior,Murat Sutalinov,United Nations,United Nations,United Nations,United Nations,United Nations,Interior
+4,Interior Minister Murat Sutalinov,Bishkek,Anne,Bishkek,Bishkek,Bishkek,Bishkek,Bishkek,Bishkek
+5,Paris,Akmatbayev,Aigle Azur,Akmatbayev,Charles De Gaulle,Charles De Gaulle,Akmatbayev,Charles De Gaulle,Akmatbayev
+6,Justice Ministry,Anne-Marie Idrac,French Foreign Trade,airline,Anne-Marie Idrac,French,Baghdad,Murat Sutalinov,Baghdad
+7,Tynychbek Akmatbayev,Baghdad,Charles De Gaulle,Baghdad International Airport,Baghdad,Anne-Marie Idrac,Murat Sutalinov,Paris,Murat Sutalinov
+8,Aigle Azur,Murat Sutalinov,Iraq,Anne-Marie Idrac,Murat Sutalinov,Baghdad,Charles De Gaulle airport,Justice Ministry,The United Nations
+9,Iraq,The United Nations,Western Europe,Baghdad,Paris,Murat Sutalinov,Paris,Tynychbek Akmatbayev,Justice Ministry
+10,Mr. Akmatbayev,Justice Ministry,Charles De,oil-for-food program,Justice Ministry,Paris,Justice Ministry,Aigle Azur,Paris
+11,Western Europe,Paris,Bishkek,Charles De Gaulle airport,Tynychbek Akmatbayev,Justice Ministry,Tynychbek Akmatbayev,Baghdad International Airport,Tynychbek Akmatbayev
+12,,Tynychbek Akmatbayev,Tynychbek,Justice Ministry,Aigle Azur,Tynychbek Akmatbayev,Baghdad International Airport,Iraq,Aigle Azur
+13,,Kyrgyz,Akmatbayev,Paris,Baghdad International Airport,Aigle Azur,Iraq,Western Europe,Iraq
+14,,Aigle Azur,Nations,Tynychbek Akmatbayev,Iraq,Baghdad International Airport,Western Europe,,Western Europe
+15,,Iraq,Paris,Kyrgyz,Mr. Akmatbayev,Iraq,,,
+16,,Western Europe,France's,Aigle Azur,Western Europe,Mr. Akmatbayev,,,
+17,,,Marie Idrac,Iraq,,Western Europe,,,
+18,,,France,,,,,,
+19,,,Wednesday,,,,,,
+20,,,Baghdad International Airport,,,,,,

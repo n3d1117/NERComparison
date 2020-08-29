@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Shinzo Abe,Bittok,Bittok,Shinzo Abe,Shinzo Abe,U.N.,Bittok,Shinzo Abe,Bittok
+1,U.N.,Shinzo Abe,Shinzo Abe,Kenya,U.N.,Kenya,U.N.,U.N.,Shinzo
+2,United States,U.N.,United States,economic sanctions,United States,America,United States,Kenya,U.N.
+3,Kenya,Kenya,Kenya,sanctions against North Korea,Kenya,Tokyo,Kenya,Pyongyang,Kenya
+4,North,Pyongyang,Pyongyang,Pyongyang,Pyongyang,Mosul,Pyongyang,Tokyo,Pyongyang
+5,Iowa,the United States,North,Japan,Japan,Bittok,Japan,North Korea,the United States
+6,Liberal Democratic Party,Japan,North Korea,Tokyo,North Korea,Japan,North Korea,Iowa,Japan
+7,U.S.,North Korea,Iowa,Liberal Democratic Party,Iowa,North Korea,Iowa,Liberal Democratic Party,North Korea
+8,Kilju,Iowa,Liberal Democratic Party,North Korea,Liberal Democratic Party,U.S.,Liberal Democratic Party,Kilju,Iowa
+9,America,Liberal Democratic Party,Korea,Kilju,U.S.,Kilju,U.S.,America,Liberal Democratic Party
+10,Moses Bittok,U.S.,Kilju,Iowa lottery,Kilju,Japanese,Kilju,Moses Bittok,U.S.
+11,Mr. Bittok,Kilju,America,Mosul,America,Christmas,America,Japanese,Abe
+12,Mosul,America,Moses Bittok,,Moses Bittok,Shinzo Abe,Tokyo,Mosul,Kilju
+13,,Moses Bittok,Tokyo,,Tokyo,United States,Mosul,Christian,America
+14,,Tokyo,Japan's,,Mr. Bittok,Pyongyang,,,Moses Bittok
+15,,Mosul,Mosul,,Mosul,Iowa,,,Tokyo
+16,,,,,,Liberal Democratic Party,,,Mosul
+17,,,,,,Mr. Bittok,,,
+18,,,,,,Christian,,,

@@ -1,0 +1,21 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Dr. Besigye,Roger Federer,Besigye's,Roger Federer,Dr. Besigye,Roger Federer,Roger Federer,Roger Federer,Roger Federer
+1,Roger Federer,Kampala,Roger Federer,Kampala,Roger Federer,American,Kampala,Ugandan,Kampala
+2,Kampala,The European Space Agency,American,Saturn,Ugandan,Cassini,Saturn,Saturn,The European Space Agency
+3,Saturn,Saturn,Kampala,tennis,Saturn,Kooyong Classic,Cassini,Earth,Saturn
+4,Earth,Cassini,Police,Tommy Haas,Cassini,Titan,Tommy Haas,Kampala,Earth
+5,Tommy Haas,Earth,Tommy Haas,Kizza Besigye,Kampala,Australian,Besigye,Cassini,Tommy Haas
+6,Kizza Besigye,Tommy Haas,Kizza Besigye,Melbourne,Tommy Haas,Italian,Kizza Besigye,American,Besigye
+7,Melbourne,Besigye,Melbourne,space probe,Kizza Besigye,Saturn,Melbourne,Tommy Haas,Kizza Besigye
+8,Titan,Kizza Besigye,Swiss,Australian Open,Melbourne,Huygens,Kooyong Classic,European,Melbourne
+9,Germany,Melbourne,Germany,Kooyong Classic,Germany,European,Titan,Kizza Besigye,the Kooyong Classic
+10,European,Germany,European Space Agency,Titan,European Space Agency,European Space Agency,Huygens,Swiss,Huygens
+11,European Space Agency,Federer,Federer,Cassini spacecraft,Federer,Federer,Germany,Melbourne,Germany
+12,Federer,Haas,Haas,Huygens,Haas,Earth,European Space Agency,Huygens,Federer
+13,Haas,,,European Space Agency,,Melbourne,Federer,Italian,Haas
+14,,,,moon,,German Tommy Haas,Haas,German,
+15,,,,tear gas,,Ugandan,,European Space Agency,
+16,,,,,,Kizza Besigye,,,
+17,,,,,,Swiss,,,
+18,,,,,,Germany,,,
+19,,,,,,Haas,,,

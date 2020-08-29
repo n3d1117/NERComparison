@@ -1,0 +1,29 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Giuseppe Lumia,Formazione,Venezia,piazza Dante,Igor,Giuseppe Lumia,Venezia
+1,Luigi Bressan,Giuseppe Lumia,Dipartimento,Trento,Giuseppe Lumia,Mosca Antonio Sebastiani,Giuseppe Lumia
+2,Antonio Sebastiani,Antonio Sebastiani,Giuseppe Lumia,Venezia,via Matteo,Consiglio delle Conferenze Episcopali Europee Alessandro Martinelli,Luigi Bressan
+3,Arcidiocesi di Trento,Istituto Trentino di Cultura,l'Ecumenismo Keith Clements,Luigi Bressan,Mosca Antonio Sebastiani,Arcidiocesi di Trento,Antonio Sebastiani
+4,via S. Croce 77,«Culture,Mosca Antonio Sebastiani,Conferenza delle Chiese Europee,Aldo Giordano,piazza Fiera,Consiglio delle Conferenze Episcopali Europee Alessandro Martinelli
+5,Aldo Giordano,Arcidiocesi di Trento,Venezia Paolo Ricca,Giuseppe Lumia,piazza Fiera,Università Popolare,Arcidiocesi di Trento
+6,piazza Fiera,Aldo Giordano,Trentino,Alessandro Martinelli,Luigi Bressan Giovanni Cereti,Istituto studi ecumenici di Venezia Paolo Ricca della Facoltà Teologica Valdese Igor Vyzhanov,via S. Croce 77
+7,Università Popolare,piazza Fiera,Dante,Arcidiocesi di Trento,Venezia Paolo Ricca,Luigi Bressan Giovanni Cereti,Università Popolare Trentina.
+8,piazza Dante,Università Popolare,Alessandro Martinelli,Mosca,Valdese,piazza Dante,Aldo Giordano
+9,Alessandro Martinelli,Luigi Bressan Giovanni Cereti,Popolare,Aldo Giordano,piazza Dante,Antonio Autiero,Ortodosso
+10,Giovanni Cereti,Dante,Antonio Autiero,Consiglio delle Conferenze Episcopali Europee,Trentino,Istituto di Scienze Religiose,piazza Fiera
+11,Facoltà Teologica Valdese,Alessandro Martinelli,Facoltà Teologica Valdese,Paolo Ricca,Alessandro Martinelli,Trento,via Matteo del Ben Aula 1
+12,Antonio Autiero,Palazzo della Regione,Facoltà Teologica Valdese Igor Vyzhanov,Ecumenismo,Antonio Autiero,via Matteo del Ben Aula,Valdese
+13,Igor Vyzhanov,Antonio Autiero,Patriarcato,arcivescovo,Trento,Ufficio Ecumenico Diocesano,piazza Dante
+14,Consiglio delle Conferenze Episcopali Europee,Igor Vyzhanov,. Perilli .,,Consiglio,Conferenza delle Chiese Europee Aldo Giordano,Giovanni Cereti
+15,Paolo Ricca,Consiglio delle Conferenze Episcopali Europee,Trento,,Ben Aula,Perilli,Antonio Autiero
+16,Istituto di Scienze Religiose,Paolo Ricca,Ecumenico,,via S. Croce,Servizio provinciale di Salute mentale,Igor Vyzhanov
+17,Ufficio Ecumenico Diocesano,Istituto di Scienze Religiose,Mosca,,Perilli,Keith Clements,Paolo Ricca
+18,Istituto studi ecumenici,Trento,. Croce,,Keith Clements,Università Popolare Trentina,Istituto di Scienze Religiose
+19,Conferenza delle Chiese Europee,Istituto studi ecumenici di Venezia,Consiglio,,Università Popolare Trentina,Dipartimento di Scienze della Cognizione e della Formazione,Trento
+20,via Matteo del Ben,Ufficio Ecumenico Diocesano,Conferenza delle Chiese Europee Aldo Giordano,,,,Ecumenismo Keith Clements
+21,Perilli,«,mons . Luigi Bressan Giovanni,,,,Mosca
+22,Servizio provinciale di Salute mentale,Patriarcato Ortodosso di Mosca,Conferenza delle Chiese Europee,,,,Ufficio Ecumenico Diocesano
+23,Keith Clements,Perilli,Regione,,,,Conferenza delle Chiese Europee
+24,Università Popolare Trentina,Università Popolare Trentina,provinciale,,,,Perilli
+25,Dipartimento di Scienze della Cognizione e della Formazione,Dipartimento di Scienze della Cognizione,Conferenze,,,,Istituto Trentino
+26,,,Ben,,,,
+27,,,Matteo,,,,

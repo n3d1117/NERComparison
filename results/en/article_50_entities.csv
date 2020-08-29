@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,EU,the Euphrates River,U.S,EU,EU,Korean,EU,European Union,European Union
+1,European Union Health,EU,EU,car bomb,European Union Health Commissioner,EU,Fox News Sunday U.S. National Security,Arab,EU
+2,Baghdad,European Union Health,Union Health,Fox News Sunday,Iraqi,Iraqi,Baghdad,Green Zone,Baghdad
+3,Green Zone,Baghdad,Baghdad,Baghdad,Baghdad,Baghdad,Green Zone,Baghdad,Green Zone
+4,North,Green Zone,Iraq,Green Zone,Green Zone,Green Zone,North Korea,U.S. National Security,North Korea
+5,Sunni Arab,North Korea,North Korea,North Korea,North Korea,North Korea,European Union Health Commissioner Markos Kypriano,U.S.,U.S.
+6,U.S.,U.S.,Washington,nuclear test,U.S.,Sunni Arab,U.S.,Stephen Hadley,Euphrates River
+7,Euphrates River,Washington,Authorities,bird flu,Washington,European Union Health Commissioner Markos Kypriano,Euphrates River,Euphrates River,Washington
+8,Obeidi,Obeidi,Beijing,U.S. National Security Adviser,Beijing,U.S.,Washington,Washington,Obeidi
+9,Beijing,Beijing,Markos Kypriano,Euphrates River,Markos Kypriano,Euphrates River,Beijing,Beijing,Beijing
+10,Markos Kypriano,Markos Kypriano,Syrian,Sunni,North Korean,Washington,Iraq,Markos Kypriano,Markos Kypriano
+11,National Security Adviser,Iraq,Fox News Sunday U.S . National,Beijing,Iraq,Obeidi,Stephen Hadley,Syrian,Iraq
+12,Iraq,Fox News,North Korean,Iraq,Fox News,Beijing,,North Korean,Fox News
+13,Fox News,Stephen Hadley,Stephen Hadley,Stephen Hadley,Stephen Hadley,Sunnis,,Iraq,Stephen Hadley
+14,Stephen Hadley,,,,,Syrian,,Fox News,
+15,,,,,,Iraq,,,
+16,,,,,,Fox News,,,
+17,,,,,,Stephen Hadley,,,

@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Iran,Iran,Iran,Iran,Iran,United Nations,the U.S.,Iran,Iran
+1,President Mikhail Saakashvili,Ahmad Vahidi,Si,United Nations charter,Ahmad Vahidi,Mike Mullen,Iran,United Nations,Ahmad Vahidi
+2,United Nations,Saakashvili,Saakashvili,natural gas,Saakashvili,Tokyo,Saakashvili,Japan,Saakashvili
+3,Admiral Mullen,Fujimori,Fujimori,Ahmad Vahidi,United Nations,Peru,Fujimori,Mike Mullen,Fujimori
+4,Mike Mullen,United Nations,United Nations,Brigadier General,Japan,Saakashvili,United Nations,Japanese,United Nations
+5,Japan,Japan,Admiral Mullen,Japan,Mike Mullen,Admiral Mullen,Japan,Mikhail Saakashvili,Japan
+6,Joint Chiefs of Staff,Mike Mullen,Mike Mullen,Mike Mullen,Mikhail Saakashvili,Japan,Mike Mullen,U.S.,Mike Mullen
+7,Brigadier General Ahmad Vahidi,Mikhail Saakashvili,General Ahmad Vahidi,Mikhail Saakashvili,U.S.,U.S.,Chiefs of Staff,Joint Chiefs of Staff,Mikhail Saakashvili
+8,President Saakashvili,U.S.,Tokyo Wednesday Mr,Joint Chiefs of Staff,Mullen,Joint,Mikhail Saakashvili,Alberto Fujimori,U.S.
+9,Alberto Fujimori,Joint Chiefs of Staff,Mikhail Saakashvili,Alberto Fujimori,Alberto Fujimori,Alberto Fujimori,U.S.,Si Cumple,Joint Chiefs of Staff
+10,Si Cumple,Mullen,Japan,Si Cumple,Peruvian,Georgia,Mullen,Georgia,Mullen
+11,Georgia,Alberto Fujimori,Alberto Fujimori,Georgia,Georgia,Japanese,Brigadier General Ahmad Vahidi,Tokyo,Alberto Fujimori
+12,Tokyo,Si Cumple,Peruvian,Tokyo,Tokyo,Mikhail Saakashvili,Alberto Fujimori,Peru,Si Cumple party
+13,Mr. Fujimori,Georgia,Georgia,Peru,Peru,Peruvian,Georgia,,Georgia
+14,,Tokyo,Tokyo,,Mr. Fujimori,Staff Chairman,Tokyo,,Tokyo
+15,,Peru,,,,Iran,Peru,,Peru
+16,,,,,,Brigadier General Ahmad Vahidi,,,
+17,,,,,,Chiefs,,,
+18,,,,,,Mr. Fujimori,,,

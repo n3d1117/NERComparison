@@ -1,0 +1,15 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Somalia,Somalia,Somalia,Somalia,Somalia,Somalia,Somalia,Somalia,Somalia
+1,Mogadishu,Ninh Binh,Ninh Binh,Ninh Binh province,Ninh Binh,World,Ninh Binh,Ninh Binh,Ninh Binh province
+2,African Union,Mogadishu,Mogadishu,Mogadishu,Mogadishu,Ninh Binh,Mogadishu,Mogadishu,Mogadishu
+3,Vietnam,the World Health Organization,African Union,bird flu,African Union,Mogadishu,African Union,African Union,the World Health Organization
+4,Islamist,Vietnam,Vietnam,African Union,Vietnam,Health,the World Health Organization,Vietnam,Vietnam
+5,Defense Ministry,H5N1,Ethiopian,Vietnam,Ethiopian,African Union,Vietnam,Ethiopian,Defense Ministry
+6,Indonesia,Defense Ministry,former Defense Ministry,Islamist,Defense Ministry,Vietnam,H5N1,Defense Ministry,The African Union
+7,World Health Organization,avian influenza,Addis,H5N1,Addis Ababa,Ethiopian,Defense Ministry,Addis Ababa,Addis Ababa
+8,,The African Union,Addis Ababa,avian influenza,Indonesia,H5N1,Addis Ababa,Indonesia,Indonesia
+9,,Addis Ababa,Indonesia,Addis Ababa,Ethiopia,Defense Ministry,Indonesia,World Health Organization,Ethiopia
+10,,Indonesia,Ethiopia,Indonesia,World Health Organization,Islamist,Ethiopia,Vietnamese,
+11,,Ethiopia,World Health Organization,Ethiopia,,Addis Ababa,,,
+12,,,,World Health Organization,,Indonesia,,,
+13,,,,,,Ethiopia,,,

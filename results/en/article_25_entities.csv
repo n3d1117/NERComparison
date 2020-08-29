@@ -1,0 +1,38 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Ramallah,Zambia,Zambia,Zambia,Zambia,Zambia,Zambia,Zambia,Zambia
+1,Air Quality Control Company,Air Quality Control Company,Africa,suicide bomber,Air Quality Control Company,Africa,Air Quality Control Company,Honduras Madagascar Mali Mozambique Nicaragua Niger,Air Quality Control Company
+2,Mr. Abbas,Africa,Baghdad,Mali,Africa,Baghdad,Africa,Air Quality Control Company,Africa
+3,Earth,Baghdad,Tehran,Burkina Faso,Baghdad,Tehran,Baghdad,Africa,Mali
+4,Africa,Tehran,Egypt,Baghdad,Tehran,Egypt,Tehran,Burkina Faso,Burkina Faso
+5,G-8,Egypt,Ariel Sharon,Tehran,Egypt,Ariel Sharon,Egypt,Israelis,Baghdad
+6,President Mahmoud Abbas,Ariel Sharon,Saudi Arabia,Nicaragua,Rwanda Senegal Tanzania Uganda,Saudi Arabia,Ariel Sharon,Tehran,Tehran
+7,Baghdad,Press TV,Iraq,Madagascar,Ariel Sharon,Iraq,G-8,Egypt,Nicaragua
+8,Tel Aviv,Saudi Arabia,Tel Aviv,Egypt,Niger,Mr. Abbas,Saudi Arabia,Rwanda Senegal Tanzania Uganda,Madagascar
+9,Papua New Guinea,Iraq,World Bank,Ariel Sharon,Saudi Arabia,Indonesian,Iraq,Ariel Sharon,Egypt
+10,Tehran,Niger Rwanda,Abbas,Niger,Iraq,Tel Aviv,Earth,G-8,Ariel Sharon
+11,Prime Minister Ariel Sharon,Earth,Iran,Guyana,Mr. Abbas,World Bank,Tel Aviv,Guyana,G-8
+12,World Bank,Mali Mozambique,Ramallah,Press TV,Indonesian,Palestinian,World Bank,Press TV,Niger
+13,Press TV,Tel Aviv,Benin Bolivia Burkina Faso Ethiopia Ghana Guyana Honduras Madagascar Mali Mozambique Nicaragua Niger Rwanda Senegal Tanzania Uganda,Saudi Arabia,Tel Aviv,Iran,Abbas,Saudi Arabia,Guyana
+14,Biak,World Bank,Iran's Press,Iraq,Benin Bolivia Burkina Faso Ethiopia Ghana Guyana Honduras Madagascar Mali Mozambique Nicaragua,Ramallah,Ramallah,Iraq,Press TV
+15,Saudi Arabia,Abbas,Papua New Guinea,Ghana,World Bank,Benin Bolivia Burkina Faso Ethiopia Ghana Guyana Honduras Madagascar Mali Mozambique Nicaragua Niger Rwanda Senegal Tanzania Uganda,Benin Bolivia Burkina Faso Ethiopia Ghana Guyana Honduras Madagascar Mali Mozambique Nicaragua Niger Rwanda Senegal Tanzania Uganda,Ghana,Saudi Arabia
+16,Iraq,Uganda,Russia,equator,Palestinian,Papua New Guinea,Papua New Guinea,Earth,Iraq
+17,Egypt,Iran,Mahmoud Abbas,Benin,Iran,Russia,Russia,Indonesian,Ghana
+18,,Ramallah,Israeli,Tel Aviv,Ramallah,Mahmoud Abbas,Mahmoud Abbas,Benin,Earth
+19,,Papua New Guinea,Biak,Mozambique,Papua New Guinea,Israeli,Biak,Tel Aviv,Benin
+20,,Russia,Quality Control,Bolivia,Russia,Biak,,Bolivia,Tel Aviv
+21,,Mahmoud Abbas,,Tanzania,Mahmoud Abbas,July,,World Bank,Mozambique
+22,,Biak,,World Bank,Israeli,,,Palestinian,Bolivia
+23,,Ethiopia,,sandstorm,,,,Iran,Tanzania
+24,,,,Uganda,,,,Ramallah,World Bank
+25,,,,Honduras,,,,Papua New Guinea,Abbas
+26,,,,Senegal,,,,Russia,Uganda
+27,,,,Iran,,,,Mahmoud Abbas,Honduras
+28,,,,Ramallah,,,,Biak,Senegal
+29,,,,Papua New Guinea,,,,Ethiopia,Iran
+30,,,,Russia,,,,,Ramallah
+31,,,,Mahmoud Abbas,,,,,Papua New Guinea
+32,,,,debt relief,,,,,Russia
+33,,,,Rwanda,,,,,Mahmoud Abbas
+34,,,,Biak,,,,,Rwanda
+35,,,,Ethiopia,,,,,Biak
+36,,,,,,,,,Ethiopia

@@ -1,0 +1,18 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Dr. Besigye,Barack Obama,U.S,U.S. Surgeon General,Dr. Besigye,Mr. Obama,U.S,Democrats,Barack Obama
+1,President Barack Obama,Regina Benjamin,Mr,Democrats,Mr. Obama,Latin,Barack Obama,Barack Obama,Regina Benjamin
+2,Mr. Obama,Besigye,Ugandan,Barack Obama,Ugandan,Barack Obama,Regina Benjamin,Besigye,Besigye
+3,Democrats,John Bosco Katutsi,Barack Obama,U.S. President,Barack Obama,American,Besigye,John Bosco Katutsi,John Bosco Katutsi
+4,President Yoweri Museveni,the High Court,Court,debt relief,John Bosco Katutsi,Surgeon General,John Bosco Katutsi,Rose Garden,the High Court
+5,Surgeon General,Rose Garden,Bank,rape,U.S.,John Bosco Katutsi,U.S.,U.S.,the House of Representatives
+6,John Bosco Katutsi,the House of Representatives,Besigye,White House Rose Garden,Washington,House,White House Rose Garden,African-American,U.S.
+7,Washington,U.S.,John Bosco Katutsi,African-American,High Court,U.S.,Washington,Latin American,Washington
+8,High Court,the White House,Washington,Paul Wolfowitz,Latin American,Washington,High Court,High Court,High Court
+9,President Paul Wolfowitz,Washington,Paul Wolfowitz,American health care system,World Bank,High Court,Paul Wolfowitz,Paul Wolfowitz,Paul Wolfowitz
+10,World Bank,Paul Wolfowitz,World Bank,World Bank,Paul Wolfowitz,Representatives,Yoweri Museveni,World Bank,World Bank
+11,House of Representatives,World Bank,Yoweri Museveni,Yoweri Museveni,Yoweri Museveni,World Bank,Ugandan High Court,African,Yoweri Museveni
+12,Regina Benjamin,the U.S. Surgeon General,Obama,House of Representatives,House of Representatives,African,House of Representatives,Yoweri Museveni,Uganda
+13,,Yoweri Museveni,Regina Benjamin,Uganda,Uganda,Yoweri Museveni,Uganda,Washington,Obama
+14,,Uganda,,,Regina Benjamin,Ugandan High Court,Obama,House of Representatives,
+15,,Obama,,,White House,Paul Wolfowitz,,Uganda,
+16,,,,,,Regina Benjamin,,White House,

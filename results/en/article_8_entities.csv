@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Somalia,Rome,Rome,Somalia,Rome,Husin,Rome,Pakistani,Somalia
+1,Rome,Orakzai,Orakzai,Rome,Orakzai,Pakistani,Orakzai,Rome,Rome
+2,Orakzai,Taliban,Leonella Sgorbati,Orakzai,Leonella Sgorbati,Rome,Mogadishu Somalia,Orakzai,Orakzai
+3,Taliban,Mogadishu Somalia,Mogadishu Somalia,Leonella Sgorbati,Taliban,Orakzai,Mogadishu,Taliban,Leonella Sgorbati
+4,Mogadishu,Mogadishu,Mogadishu,Taliban,Indonesian,Leonella Sgorbati,South Waziristan,Mogadishu Somalia,Taliban
+5,Byzantine,South Waziristan,Pope,Taliban insurgents,Mogadishu,Taliban,Bali,Indonesian,Mogadishu
+6,Roman Catholic,Bali,Helicopter,Mogadishu,Muhammed,Indonesian,Azahari bin Husin,Muhammed,Pope
+7,South Waziristan,Azahari bin Husin,South Waziristan,Byzantine,South Waziristan,Mogadishu,Vatican,Byzantine,the Prophet Muhammed
+8,Bali,Prophet Muhammed,Bali,Roman Catholic,Bali,Pope,,Roman Catholic,South Waziristan
+9,Azahari bin Husin,Vatican,Azahari bin Husin,Muslim,Azahari bin Husin,Byzantine,,South Waziristan,Bali
+10,Pope Benedict,Sister Leonella Sgorbati,Authorities,South Waziristan,Pope Benedict,Roman Catholic,,Benedict,Azahari bin Husin
+11,Vatican,,Pope Benedict,Islamist,Vatican,Muslim,,Azahari bin Husin,Pope Benedict
+12,Prophet Muhammed,,Prophet Muhammed,Prophet Muhammed,,South Waziristan,,Bali,
+13,Sister Leonella Sgorbati,,,Vatican,,Bali,,Vatican,
+14,,,,Pakistani military,,Pope Benedict,,,
+15,,,,2002 Bali bombings,,Vatican,,,
+16,,,,,,Prophet Muhammed,,,
+17,,,,,,Azahari,,,

@@ -1,0 +1,24 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Mr. Obama,U.N.,Republican,Republican,U.N.,U.N.,Washington D.C. Sperling,Serb,U.N.
+1,D.C.,United Nations,United Nations,Serb,United Nations,Republican,U.N.,Republican,United Nations
+2,U.N.,Washington D.C.,Srebrenica,United Nations,Srebrenica,Serb,United Nations,Washington D.C.,Srebrenica
+3,United Nations,Lawrence Summers,William Daley,Srebrenica,William Daley,United Nations,Lawrence Summers,Lawrence Summers,ex-Clinton
+4,Lawrence Summers,Srebrenica,Washington,William Daley,Obama,Srebrenica,Srebrenica,Srebrenica,William Daley
+5,Srebrenica,Clinton,Authorities,World War II,Rahm Emmanuel,William Daley,Timothy Geithner,Clinton,Washington
+6,William Daley,ex-Clinton,United,Bijeljina,Bijeljina,Washington,Treasury,ex-Clinton,Obama
+7,Hague,Timothy Geithner,Obama,Lawrence Summers,Lawrence Summers,Obama,William Daley,Timothy Geithner,Rahm Emmanuel
+8,Washington,Treasury,Rahm Emmanuel,Muslims,Treasury,Rahm Emmanuel,The Hague,United Nations,Bijeljina
+9,Dragan Neskovic,the House of Representatives,Bijeljina,Timothy Geithner,Timothy Geithner,Bijeljina,Dragan Neskovic,The Hague,Lawrence Summers
+10,Sperling,William Daley,Lawrence Summers,Bosnian Serb,Mr. Obama,Lawrence Summers,Bosnia-Herzegovina,Dragan Neskovic,Treasury
+11,House of Representatives,The Hague,Herzegovina,genocide,Clinton,House,House of Representatives,Sperling,Timothy Geithner
+12,Treasury Secretary Timothy Geithner,Dragan Neskovic,Bosnian,U.N. war crimes tribunal,Muslim,Bosnian,Obama,Bosnia-Herzegovina,the House of Representatives
+13,Obama,Bosnia-Herzegovina,Timothy Geithner,Muslim,Dragan Neskovic,Muslims,Rahm Emmanuel,European,D.C.
+14,Rahm Emmanuel,Obama,Clinton,House of Representatives,House of Representatives,Timothy Geithner,Bijeljina,House of Representatives,Clinton
+15,Bijeljina,Rahm Emmanuel,Dragan Neskovic,Serbs,Sperling,Treasury,,Obama,Dragan Neskovic
+16,,Bijeljina,Sperling,Washington D.C.,Washington D.C,European,,Rahm Emmanuel,Sperling
+17,,,Mr,Obama administration,The Hague,Mr. Obama,,Bijeljina,The Hague
+18,,,Washington D.C,The Hague,Bosnia-Herzegovina,Muslim,,,Bosnia-Herzegovina
+19,,,The Hague,Bosnia-Herzegovina,,Hague,,,
+20,,,Bosnia,,,Dragan Neskovic,,,
+21,,,,,,Representatives,,,
+22,,,,,,Bosnia-Herzegovina,,,

@@ -1,0 +1,21 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Khost,Khost,Mara Salvatrucha,suicide bomber,Khost,Mara Salvatrucha,Khost,Khost,Mara Salvatrucha
+1,Minuteman Project,Minuteman Project,American,Mara Salvatrucha,Mara Salvatrucha,American,Minuteman Project,Colombia,James Gilchrist
+2,Mara Salvatrucha,Mara Salvatrucha,Central,water pollution,South America,Central,Mara Salvatrucha,Mara Salvatrucha,The World Bank
+3,Colombia,the National Alliance for Human Rights,James Gilchrist,James Gilchrist,Colombia,James Gilchrist,South America,South America,Tombstone
+4,Minuteman,Minuteman,The Bank,Khost,United States,Khost,Colombia,Central American,the United States
+5,Central and South America,Central and South America,Tombstone,National Alliance,Bank,National Alliance,United States,Mexico,Khost
+6,United States,Colombia,U.S,South America,National Alliance for Human Rights,South America,National Alliance for Human Rights,Hispanics,Central and South America
+7,Bank,Bank,Khost,illegal aliens,U.S.,U.S.,U.S.,National Alliance for Human Rights,U.S.
+8,National Alliance for Human Rights,the United States,South America,undocumented aliens,James Gilchrist,Mexico,James Gilchrist,Central,Minuteman
+9,eastern Afghanistan,U.S.,Police,U.S. state,Washington Times,United States,Washington,James Gilchrist,Mexico
+10,U.S.,James Gilchrist,National Alliance for Human Rights,MS-13,The World Bank,Bank,World Bank,U.S.,MS-13
+11,James Gilchrist,Washington Times,Minuteman,World Bank,Afghanistan,Human Rights,Afghanistan,Washington Times,Bank
+12,Washington Times,The World Bank,Mexico,Afghanistan,Likewise Hispanics,Washington Times,Mexico,World Bank,Washington Times
+13,World Bank,Afghanistan,United States,U.S.-Mexico border,Mexico,World Bank,MS-13,Afghanistan,Afghanistan
+14,Mexico,Mexico,Bank,Arizona,Tombstone,Afghanistan,Arizona,Minuteman,Arizona
+15,MS-13,Tombstone,Washington Times,Colombia,U.S.-Mexico,U.S.-Mexico,,Tombstone,Colombia
+16,Arizona,the Minuteman Project,Afghanistan,Minuteman Project,Arizona,Arizona,,U.S.-Mexico,Minuteman Project
+17,,Arizona,Arizona,illegal immigration,,Colombia,,Arizona,the National Alliance for Human Rights
+18,,,Colombia,sustainable development,,Minuteman Project,,,the Minuteman Project
+19,,,Minuteman Project,,,,,,

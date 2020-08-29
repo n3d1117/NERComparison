@@ -1,0 +1,23 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Somalia,Iran,Mogadishu,Iran,Iran,Mogadishu,Iran,Iran,Iran
+1,President Mahmoud Ahmadinejad,Somalia,al Qaida,Somalia,Somalia,Local,Somalia,Abdullahi Yusuf Ahmad,Somalia
+2,Kurdish,Abdullahi Yusuf Ahmad,Mosul,Kurdish,Abdullahi Yusuf Ahmad,German,Abdullahi Yusuf Ahmad,Dutch,Abdullahi Yusuf Ahmad
+3,Thomas Horbach,Thomas Horbach,Militant,Niger Delta,Delta,Abdullahi Yusuf Ahmad,Delta,Somalia,Thomas Horbach
+4,Delta,the Niger Delta,Abdullahi Yusuf Ahmad,Mogadishu,Niger Delta,Niger Delta,Niger Delta,Kurdish,the Niger Delta
+5,Niger Delta,Delta,Niger Delta,Royal-Dutch Shell,Mogadishu,Nigeria,Mogadishu,Iraqi,Delta
+6,Mogadishu,Bilfinger,Royal,Islamist,Iraq,European,Iraq,Delta,Mogadishu
+7,Royal-Dutch Shell,Mogadishu,Bayelsa State,al Qaida in Iraq,Bilfinger Berger Thomas Horbach,Bayelsa State,Royal-Dutch Shell,Niger Delta,Iraq
+8,Sunni Arab,Iraq,Iraq,Sunni,Nigeria,Iraq,Sunni Arab,Mogadishu,Royal-Dutch Shell
+9,Shell,Royal-Dutch Shell,Kurdish,Nigeria,European,Kurdish,Shell,Nigerian,Shell
+10,al Qaida in Iraq,Shell,Delta,Bayelsa State,Bayelsa State,Iraqi,Bilfinger Berger Thomas Horbach,Shell,al Qaida
+11,Nigeria,al Qaida,Iranian,Mahmoud Ahmadinejad,Mahmoud Ahmadinejad,Delta,Nigeria,al Qaida,Nigeria
+12,Bayelsa State,the Sunni Arab,Shell,Delta State,Delta State,Iranian,Bayelsa State,Royal,Bayelsa State
+13,President Abdullahi Yusuf Ahmad,Nigeria,Bilfinger Berger Thomas Horbach,Mosul,Mosul,Shell,Mahmoud Ahmadinejad,Bilfinger Berger Thomas Horbach,Mahmoud Ahmadinejad
+14,Delta State,Mahmoud Ahmadinejad,Delta State,Bilfinger Berger,,Bilfinger Berger Thomas Horbach,Delta State,European,Delta State
+15,Mosul,Delta State,Iran,,,Nigerian,Mosul,Bayelsa State,Mosul
+16,Bilfinger Berger,Mosul,al,,,Iran,,Mahmoud Ahmadinejad,Bilfinger Berger
+17,,,Mogadishu Wednesday,,,Somalia,,Germans,
+18,,,Mahmoud Ahmadinejad,,,Sunni Arab,,,
+19,,,,,,Islamist,,,
+20,,,,,,Mahmoud Ahmadinejad,,,
+21,,,,,,Germans,,,

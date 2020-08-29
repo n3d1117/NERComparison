@@ -1,0 +1,19 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,U.N. Security Council,Olympic,Tony Blair,Tony Blair,Tony Blair,Chinese,Tony Blair,anti-Japanese,Tony Blair
+1,Olympic Delivery Authority,Tony Blair,. Security,China,Security Council,Tony Blair,U.N. Security Council,Tony Blair,China
+2,Xinhua,China,China,Olympic Delivery Authority,China,Security Council,China,U.N. Security Council,Japan
+3,Prime Minister Tony Blair,Japan,Xinhua,State Councilor,Xinhua,U.N.,Xinhua,China,the U.N. Security Council
+4,China,the U.N. Security Council,Tokyo's,Japan,Japan,China,Olympic Delivery Authority,Xinhua,Tang Jiaxuan
+5,Japan,Tang Jiaxuan,Tang Jiaxuan,Tang Jiaxuan,U.N,Xinhua,Japan,Olympic Delivery Authority,Li Zhaoxing
+6,State Councilor Tang Jiaxuan,Li Zhaoxing,Li Zhaoxing,Li Zhaoxing,Tang Jiaxuan,Japan,Tang Jiaxuan,Tang Jiaxuan,The Olympic Delivery Authority
+7,Foreign Minister,The Olympic Delivery Authority,Sam Beattie,renewable energy,Li Zhaoxing,Tang Jiaxuan,Li Zhaoxing,Sichuan,Nobutaka Machimura
+8,Li Zhaoxing,Nobutaka Machimura,Beijing,2012 Summer Olympics,Sichuan,Li Zhaoxing,Sichuan,Sam Beattie,Sam Beattie
+9,Sichuan,Sam Beattie,Shanghai,Nobutaka Machimura,Sam Beattie,Sichuan,Sam Beattie,Beijing,Beijing
+10,Sam Beattie,Beijing,Jing Jing's,Beijing,Beijing,Summer Olympics,Beijing,Shanghai,Shanghai
+11,Beijing,State,Sichuan province,U.N. Security Council,Shanghai,Sam Beattie,Shanghai,Tokyo,Tokyo
+12,Shanghai,Shanghai,Nobutaka Machimura,Tokyo,Tokyo,Beijing,Tokyo,Jing Jing,Jing Jing's
+13,Nobutaka Machimura,Tokyo,London,Sichuan province,Nobutaka Machimura,Shanghai,Jing Jing,Nobutaka Machimura,Sichuan province
+14,London,Jing Jing's,,Xinhua news agency,London,Tokyo,Nobutaka Machimura,London,Xinhua news agency
+15,,Sichuan province,,,,Jing,London,,London
+16,,Xinhua news agency,,,,Nobutaka Machimura,,,
+17,,London,,,,London,,,

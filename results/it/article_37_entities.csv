@@ -1,0 +1,30 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Ds,Ds,Massimo Sancrotti,piazza Dante,Ds,Ds,Ds
+1,Elserino Piol,Elserino Piol,Regione Campania,Ds,Toscana,Elserino Piol,Ist.
+2,Massimo Sancrotti,Massimo Sancrotti,Piol,Emilia Romagna,Massimo Sancrotti,Massimo Sancrotti,Elserino Piol
+3,Gian Marco Richiardone,Regione Campania,Dante .,Monte Ortigara,Piol,Regione Campania,Massimo Sancrotti
+4,Paolo Annunziato,Gian Marco Richiardone,Paolo Annunziato,SERIE B,Paolo Annunziato,Gian Marco Richiardone,Regione Campania
+5,piazza Dante,Paolo Annunziato,Gian Marco Richiardone,Trentino,SERIE B,Paolo Annunziato,Gian Marco Richiardone
+6,SERIE B,Emilia Romagna,Emilia Romagna,Elserino Piol,Palazzo,piazza Dante,Paolo Annunziato
+7,Susat,Trentino,Trentino,Susat,Trentino,Emilia Romagna,piazza Dante
+8,Luigi Nicolais,Dante,Dante,Regione Campania,Dante,SERIE B,Emilia Romagna
+9,Pino Venture Partners srl,Palazzo della Regione,Luigi Nicolais,Luigi Nicolais,Luigi Nicolais,Susat,SERIE B
+10,Confindustria,Luigi Nicolais,Pino Venture Partners srl,cormorani,Museo,Luigi Nicolais,Susat
+11,via Calepina 14,Unione Pescatori,Confindustria,Passo Vezzena,assessore Regione Campania,Pino Venture Partners srl,Luigi Nicolais
+12,Passo Vezzena,La Susat,Trento,Regione Toscana,Pino,Confindustria,Unione Pescatori
+13,Università di Trento,Confindustria,Passo Vezzena,Università di Trento,Confindustria,via Calepina 14,Sala Rosa
+14,Gianluca Salvatori,Trento,Università di Trento,Confindustria,Trento,Passo Vezzena,Pino Venture Partners srl
+15,Toro,Pino Venture Partners,Gianluca Salvatori,,Ist,Università di Trento,Confindustria
+16,Monte Ortigara,Ist,Toro,,via Calepina,Gianluca Salvatori,Trento
+17,Unione Pescatori del Trentino,Passo Vezzena,Passo,,Passo Vezzena,Toro,via Calepina 14
+18,Simone Sorbi,Università di Trento,Regione,,Gianluca Salvatori,Monte Ortigara,Passo Vezzena
+19,Ist .,Gianluca Salvatori,Emilia,,Alla Sala Rosa,Unione Pescatori del Trentino,Università di Trento
+20,Matteo Cosulich,Toro,Simone Sorbi,,Monte Ortigara,Ist . Fisica della materia,Gianluca Salvatori
+21,Fisica della materia,Alla Sala Rosa,Regione Toscana,,assessore Emilia Romagna,Simone Sorbi,Monte Ortigara
+22,Duccio Campagnoli,Monte Ortigara,Matteo Cosulich,,Simone Sorbi,Regione Toscana,Simone Sorbi
+23,,naz,Duccio Campagnoli,,Matteo Cosulich,prov. Trento,Regione Toscana
+24,,Simone Sorbi,,,Gian Marco,Matteo Cosulich,Museo di Scienze Naturali
+25,,Regione Toscana,,,Duccio Campagnoli,Duccio Campagnoli,Matteo Cosulich
+26,,Museo di Scienze Naturali,,,,,Duccio Campagnoli
+27,,Matteo Cosulich,,,,,
+28,,Duccio Campagnoli,,,,,

@@ -1,0 +1,17 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Thailand,Thailand,Thailand's,crimes against humanity,Thailand,Thailand,Thailand,Thailand,Thailand
+1,King Bhumibol Adulyadej,King Bhumibol Adulyadej,Thailand,Thailand,Radovan Karadzic,Radovan Karadzic,King Bhumibol Adulyadej,King Bhumibol Adulyadej,Radovan Karadzic
+2,Radovan Karadzic,Radovan Karadzic,King Bhumibol Adulyadej,Radovan Karadzic,China,China,Radovan Karadzic,Radovan Karadzic,the Shaanxi Provincial Archaeological Research Institute
+3,China,the Shaanxi Provincial Archaeological Research Institute,Radovan Karadzic,China,Xinhua,Xinhua,China,China,China
+4,Xinhua,China,Xinhua,Xinhua,United Nations,United Nations,Xinhua,Xinhua,Xinhua
+5,United Nations,Xinhua,United Nations,United Nations,Mr. Alston,Mr. Alston,United Nations,Serb,United Nations
+6,Mr. Alston,United Nations,Alston's,genocide,Shaanxi Provincial Archaeological Research Institute,Muslim,Shaanxi Provincial Archaeological Research Institute,United Nations,Alston
+7,Muslim,Alston,Bosnian,Shaanxi province,Philip Alston,Neolithic,Alston,Bosnian,Philip Alston
+8,Shaanxi Provincial Archaeological Research Institute,Philip Alston,Philip Alston,Muslim,Bhumibol Adulyadej,Adulyadej,Philip Alston,Shaanxi Provincial Archaeological Research Institute,Bhumibol Adulyadej
+9,Philip Alston,Shaanxi,United,Neolithic,Shaanxi,Bosnian Serb,Shaanxi,Philip Alston,Shaanxi
+10,Shaanxi,Xinhua news agency,Shaanxi,Bosnian Serb,,Shaanxi Provincial Archaeological Research Institute,,Shaanxi,Xinhua news agency
+11,,,Archaeological Research,New Stone Age,,New Stone Age,,,
+12,,,,Philip Alston,,Philip Alston,,,
+13,,,,Bhumibol Adulyadej,,Shaanxi,,,
+14,,,,Shaanxi,,,,,
+15,,,,Xinhua news agency,,,,,

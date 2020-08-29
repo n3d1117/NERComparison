@@ -1,0 +1,25 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Bush,Bush,Hyde Park,European Union,European Union,European Union,European Union,European Union,Madrid
+1,Hyde Park,Hyde Park,Vienna,Madrid,Madrid,U.N.,Madrid,British,IAEA
+2,Vienna,Vienna,Iran,Houses of Parliament,Houses of Parliament,British,Houses of Parliament,Madrid,Tehran
+3,Rome,Rome Paris,Rome,IAEA,IAEA,Parliament,IAEA,Houses of Parliament,Bush
+4,European Union,Iran,Rome Paris,Tehran,Tehran,Madrid,Tehran,Tehran,the Houses of Parliament
+5,International Atomic Energy Agency,Isfahan,U.S,uranium,Security Council,IAEA,Bush,Bush,Brighton
+6,Labor Party,Labor Party,International Atomic Energy Agency,Brighton,Brighton,Tehran,Brighton,Brighton,U.S.
+7,Madrid,Madrid,Labor Party,Nuclear Non-Proliferation treaty,U.N,Bush Number One Terrorist,U.S.,U.S.,The European Union
+8,Brighton,Brighton,Madrid,war in Iraq,U.S.,Houses,Iraq,Iraq,Iraq
+9,Isfahan,the U.N. Security Council,Brighton,Hyde Park,Bush Number,Security Council,London,London,London
+10,IAEA,IAEA,Isfahan,Rome,Iraq,Brighton,Hyde Park,Hyde Park,Hyde Park
+11,Paris,U.S.,. Security,International Atomic Energy Agency,London,U.S.,International Atomic Energy Agency,English,Rome
+12,U.N. Security Council,Tehran,Tehran,Labor Party,Hyde Park,Iraq,Labor Party,International Atomic Energy Agency,Isfahan
+13,London,The International Atomic Energy Agency,Union,Isfahan,International Atomic Energy Agency,Bombings,Isfahan,Labor Party,Labor Party
+14,Iraq,The European Union,Iraq,Paris,Labor Party,London,Vienna,Isfahan,the U.N. Security Council
+15,Britain,London,London,Iraq conflict,Isfahan,Hyde Park,Iran,Number One Terrorist,The International Atomic Energy Agency
+16,,Iraq,,Vienna,Vienna,English,Rome Paris,Iran,Paris
+17,,Britain,,Iran,Iran,International Atomic Energy Agency,U.N. Security Council,Vienna,Vienna
+18,,,,U.N. Security Council,Rome Paris,Labor Party,Britain,Rome Paris,Iran
+19,,,,,Britain,Iranian,,U.N. Security Council,Britain
+20,,,,,,Iran,,,
+21,,,,,,Rome Paris,,,
+22,,,,,,Nuclear,,,
+23,,,,,,Britain,,,

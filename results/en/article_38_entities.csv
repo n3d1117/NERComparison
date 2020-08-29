@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,U.S. Special Forces,U.S. Special Forces,United Nations,U.N. refugee agency,U.N.,U.N.,U.S. Special Forces,U.S. Special Forces,U.S. Special Forces
+1,U.N.,U.N.,Baghdad,Iraqi special operations forces,Iraqi,Iraqi,U.N.,Iraqi,U.N.
+2,Shi'ite,Baghdad,Ron Redmond,U.S. Special Forces,United Nations,United Nations,United Nations,United Nations,Baghdad
+3,United Nations,Tarmiyah,Darfur,roadside bomb,Baghdad,Baghdad,Baghdad,Ron Redmond,Tarmiyah
+4,Baghdad,Zalinge,Moqtada al,Shi'ite,Ron Redmond,Tarmiyah,Tarmiyah,Baghdad,Zalinge
+5,Tarmiyah,Ron Redmond,Sudan,United Nations,Kirkuk,Kirkuk,Kirkuk,Kirkuk,Ron Redmond
+6,Kirkuk,Redmond,U.S,Baghdad,Redmond,Zalinge,Iraqi army,Tarmiyah,Redmond
+7,Zalinge,Darfur,Redmond,Tarmiyah,Darfur,Ron Redmond,Ron Redmond,Redmond,Darfur
+8,Ron Redmond,U.S.,Sudan's Darfur,Iraqi army,U.S.,Darfur,Darfur,Darfur,U.S.
+9,Darfur,Judaidah,Kirkuk province,displaced persons'camps,Sadr City,U.S.,U.S.,U.S.,Judaidah
+10,Judaidah,Sadr City,Iraq,al-Qaida in Iraq,Moqtada,Judaidah,Sadr City,Sadr City,Sadr City
+11,Sadr City,The United Nations,Iraqi,Sadr City,North Darfur,Sadr City,North Darfur,Judaidah,The United Nations
+12,Redmond,North Darfur,Qaida,Darfur,Sadr,Moqtada,Moqtada al-Sadr,al-Qaida,North Darfur
+13,North Darfur,Kirkuk province,Special Forces,U.S. military,Iraq,North Darfur,Iraq,Moqtada al-Sadr,Kirkuk province
+14,al-Qaida,al-Qaida,Sadr . U.S,North Darfur,Sudan,Redmond,Sudan,Sudan,al-Qaida
+15,Moqtada al-Sadr,Moqtada al-Sadr,Tarmiyah,Kirkuk province,,Iraq,,,Moqtada al-Sadr
+16,Iraq,Iraq,Sadr City,Moqtada al-Sadr,,Sudan,,,Iraq
+17,Sudan,Sudan,North Darfur,Sudan,,,,,Sudan
+18,,,Baghdad's Sadr City,,,,,,

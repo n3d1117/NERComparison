@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Guardia Nazionale irachena,Michel Barnier,Michel Barnier,Michel Barnier,Michel Barnier,Michel Barnier,Guardia Nazionale irachena
+1,Michel Barnier,Raffarin,Iraq Christian Chesnot,PARIGI,Iraq Christian Chesnot,Iraq Christian Chesnot,Michel Barnier
+2,Jacques Chirac,Georges Malbrunot,Georges Malbrunot,Jacques Chirac,Raffarin,Izzat Ibrahim al - Douri,PARIGI
+3,Esercito Islamico in Iraq,Enzo Baldoni,Enzo Baldoni,Pristina,Georges Malbrunot,Raffarin,Iraq Christian Chesnot
+4,Izzat Ibrahim al - Douri,Pristina,francesi,Izzat Ibrahim al - Douri,Enzo Baldoni,Georges Malbrunot,Pristina
+5,Raffarin,Esercito Islamico in Iraq,Guardia Nazionale irachena,velo islamico,Guardia Nazionale irachena,Enzo Baldoni,Jacques Chirac
+6,Christian Chesnot,Guardia Nazionale,Pristina,Falluja,Pristina,ministero dell' interno,Islamico
+7,Georges Malbrunot,Saddam Hussein,Raffarin sull'autenticità,Parigi,Esercito Islamico,Osama Bin Laden,Usa
+8,Enzo Baldoni,Iraq,Saddam Hussein,Enzo Baldoni,Saddam Hussein,Guardia Nazionale irachena,Georges Malbrunot
+9,Jean - Pierre Raffarin,Christian Chesnot,Izzat Ibrahim al -,Internet,Iraq,Pristina,Falluja
+10,Saddam Hussein,Parigi,Iraq,Jean - Pierre Raffarin,Parigi,Esercito Islamico in Iraq,Enzo Baldoni
+11,ministero dell' interno,«,A,arabo,Jean,Saddam Hussein,Jean - Pierre Raffarin
+12,Osama Bin Laden,Jean,A Parigi,Saddam Hussein,sheikh Osama Bin Laden,Iraq,francesi
+13,,Osama Bin Laden»,iracheno,autobomba,PARIGI,Parigi,Saddam Hussein
+14,,Jacques Chirac,sheikh Osama Bin Laden,Iraq,Jacques Chirac,PARIGI,Iraq
+15,,Pierre Raffarin «,PARIGI,Osama Bin Laden,Izzat Ibrahim,Jacques Chirac,Osama Bin Laden
+16,,Izzat Ibrahim,Jacques Chirac,ministero dell'interno,Usa,Usa,
+17,,Usa,Islamico,,Falluja,Falluja,
+18,,Falluja,Usa,,Pierre Raffarin,Jean - Pierre Raffarin,
+19,,,Falluja,,,,
+20,,,Jean - Pierre Raffarin,,,,

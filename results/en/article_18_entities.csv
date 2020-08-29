@@ -1,0 +1,16 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Mr. Sivaram,Sivaram,Sivaram,Daily Mirror,Daily Mirror,Daily Mirror,Sivaram,British,Sivaram
+1,Dharmeratnam Sivaram,the Daily Mirror,Kandahar Saturday,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,english,the Daily Mirror
+2,NATO,Dharmeratnam Sivaram,Sivaram's,Sri Lankan civil war,Mr. Sivaram,Mr. Sivaram,Dharmeratnam Sivaram,Dharmeratnam Sivaram,Dharmeratnam Sivaram
+3,Taleban,NATO,NATO,NATO,Dharmeratnam Sivaram,British,NATO,NATO,NATO
+4,TamilNet,Sri Lankan,Daily,Operation Medusa,NATO,Dharmeratnam Sivaram,Sri Lankan,Sri Lankan,Sri Lanka's
+5,Beijing,Taleban,Beijing,Taleban,Taleban,NATO,Beijing,Taleban,Beijing
+6,Afghanistan,Sri Lanka's,Afghanistan,TamilNet,Beijing,Sri Lankan,Afghanistan,Beijing,Afghanistan
+7,Tamil Tiger,Beijing,Tamil Tiger,Beijing,Afghanistan,Taleban,Colombo,Afghanistan,TamilNet Web
+8,Lankan,Afghanistan,Tamil,Afghanistan,Tamil Tiger,TamilNet,Kandahar,Tamil Tiger,Colombo
+9,Tamil,Tamil Tiger,Colombo,Tamil Tiger,Colombo,Beijing,,Japanese,Kandahar
+10,Colombo,Tamil,Sri,Colombo,Kandahar,Afghanistan,,Tamil,
+11,Sri,Colombo,Kandahar,Kandahar,,Japanese,,Colombo,
+12,Kandahar,Kandahar,,,,Tamil,,Kandahar,
+13,,,,,,Colombo,,,
+14,,,,,,Kandahar,,,

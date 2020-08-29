@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Catanzaro,Catanzaro,Catanzaro,Catanzaro,Catanzaro,Catanzaro,Catanzaro
+1,Vicenza,Vicenza,Catanzaro rivitalizzato,Vicenza,Vicenza,Vicenza,Vicenza
+2,Rossi,Rossi,Empoli,Albinoleffe,Rossi,Rossi,Rossi
+3,Cagni,Cagni,Piacenza,Crotone,Cagni,Cagni,Cagni
+4,Salernitana,Salernitana,Rossi,Genoa,Salernitana,Salernitana,Salernitana
+5,Albinoleffe,Crotone,Salernitana,Torino,Crotone,Crotone,Albinoleffe
+6,Crotone,Albinoleffe,l'Albinoleffe,Empoli,Albinoleffe,Albinoleffe,Crotone
+7,Ascoli,Ascoli,Cagni,Piacenza,Ascoli,Ascoli,Modena
+8,Modena,Modena,Albinoleffe,,Modena,Modena,Ascoli
+9,Pescara,Pescara,Modena,,Pescara,Pescara,Pescara
+10,Genoa,Genoa,Pescara,,Genoa col Vicenza,Genoa,Genoa
+11,Torino,Empoli 1,Genoa,,Genoa,Torino,Torino
+12,Catania,Torino,Torino,,Torino,Catania,Catania
+13,Empoli,Catania,Perugia,,Catania,Empoli,Empoli
+14,Perugia,Empoli,Goleada,,Empoli,Perugia,Perugia
+15,Piacenza,Perugia,Vicenza,,Perugia,Piacenza,Piacenza
+16,,Piacenza,Crotone,,Piacenza,,
+17,,,Ascoli,,,,
+18,,,Catania,,,,

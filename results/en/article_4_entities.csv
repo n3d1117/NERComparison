@@ -1,0 +1,17 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,British Home Office,Home Office,British Home Office,suicide bomber,Muhammad,Pakistani,British Home Office,Pakistani,Home Office
+1,Home Office,the British Home Office,British,Home Office,Home Office,Associated,Home Office,British Home Office,the British Home Office
+2,al-Qaida,Prophet Muhammad,Police,al-Qaida,Omar Khayam,South,Omar Khayam,al-Qaida,Prophet Muhammad
+3,Prophet Muhammad,Omar Khayam,Islam's Prophet Muhammad . Bedfordshire,parole,Khayam,British,Khayam,British,Omar Khayam
+4,Omar Khayam,Khayam,South Waziristan Sunday,Bedfordshire police,South Waziristan,Prophet Muhammad,South Waziristan,Prophet Muhammad,Khayam
+5,Khayam,the Associated Press,Omar Khayam,Omar Khayam,Bedfordshire,Omar Khayam,Taleban,Omar Khayam,the Associated Press
+6,South Waziristan,South Waziristan,Khayam,South Waziristan,Bedford,Khayam,Bedford,South Waziristan,South Waziristan
+7,Taleban,Bedfordshire,South Waziristan,Taleban,Afghanistan,South Waziristan,Afghanistan,Bedfordshire,Bedfordshire
+8,Bedford,Taleban,Bedford,Afghanistan,Islam,Taleban,Associated Press,Taleban,Taleban
+9,Afghanistan,Bedford,Kani,Islam,Associated Press,Bedford,AP,Bedford,Bedford
+10,Islam,Afghanistan,Afghanistan,Associated Press,AP,Afghanistan,Malik Faridullah Khan,Afghanistan,Afghanistan
+11,Associated Press,Islam,Associated Press,,Malik Faridullah Khan,Islam,Kani Wam,Associated Press,Islam
+12,AP,al-Qaida,AP,,,AP,,Malik Faridullah Khan,al-Qaida
+13,Malik Faridullah Khan,AP,Malik Faridullah Khan,,,Malik Faridullah Khan,,Kani Wam,AP
+14,Kani Wam,Malik Faridullah Khan,Islam's Prophet Muhammad .,,,Kani Wam,,,Malik Faridullah Khan
+15,,Kani Wam,,,,,,,Kani Wam

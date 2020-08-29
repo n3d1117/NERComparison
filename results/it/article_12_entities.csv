@@ -1,0 +1,22 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Apran,Apran,Rossi,Uil,FIRENZE,Apran,FIRENZE
+1,Lippi,Lippi,l'U18 FIRENZE,FIRENZE,Cisl,Lippi,Cisl
+2,U18,U18,Male,Cisl,Lippi,Gattuso,Zambrotta
+3,Gattuso,Gattuso,Lippi,Zambrotta,Toni,Italia,Lippi
+4,Italia,Italia,Uil sanità,Lippi,Coverciano,Cisl,Totti
+5,Cisl,Cisl,Vivian - . Toni,punta centrale,Vivian,Esposito,Esposito
+6,Esposito,Esposito,Esposito,Coverciano,De Rossi,Toni,Under 18
+7,Toni,Azienda,Toni,Pancaro,Pancaro,Coverciano,Toni
+8,Cagliari,Toni,Coverciano,Cagliari,Blasi,Cagliari,Coverciano
+9,Zambrotta,Coverciano,De Rossi,Gattuso,Gattuso,Zambrotta,Vivian
+10,Under 18,Cagliari,Blasi,Nesta,Nesta,U18 FIRENZE,De Rossi
+11,Vivian,Zambrotta,Pancaro,Italia,Italia,Under 18,Pancaro
+12,Pancaro,Vivian,Cagliari,euro,Cagliari,Vivian,Pierachille Dalledonne
+13,Azienda sanitaria,Pancaro,Gattuso,Totti,Totti,Pancaro,Gattuso
+14,Uil sanità,De Rossi,Nesta,,,Azienda sanitaria,Nesta
+15,De Rossi,Blasi,Totti,,,Uil sanità,Italia
+16,Blasi,Pierachille Dalledonne,,,,De Rossi,Cagliari
+17,Pierachille Dalledonne,Nesta,,,,Blasi,Uil sanità
+18,Nesta,Totti,,,,Pierachille Dalledonne,
+19,Totti,,,,,Nesta,
+20,,,,,,Totti,

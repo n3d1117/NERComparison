@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Iran,Iran,India,mining accident,Iran,Pakistani,Wael al-Rubaei ),Iran,Iran
+1,India,India,. Security,India,India,Iran,Iran,India,India
+2,China,China,China,uranium enrichment,Security Council,India,India,China,China
+3,Xinhua,Islamabad,Xinhua,Islamabad,China,Security Council,China,Iraqi,Islamabad
+4,Islamabad,United Nations,Islamabad,Kashmir issue,Xinhua,U.N.,Xinhua,Xinhua,United Nations
+5,United Nations,Baghdad,Guardian,Baghdad,Islamabad,China,Islamabad,Islamabad,Baghdad
+6,Baghdad,the U.N. Security Council,Baghdad,United Nations,Iraqi,Xinhua,United Nations,Baghdad,Shaanxi province
+7,Iraq,Guardian Council,Wael,"Baghdad.
+Iran",Baghdad,Islamabad,Baghdad,United Nations,the U.N. Security Council
+8,Guardian Council,Wael al-Rubaei,Pakistan,Guardian Council,United Nations,Iraqi,Guardian Council,Guardian Council,Guardian Council
+9,Wael al-Rubaei,Pakistan,Kashmir,Pakistan,U.N,Baghdad,Pakistan,Wael al-Rubaei,Wael al-Rubaei
+10,Kashmir,Kashmir,gunning,Kashmir,Guardian Council,Wael,Kashmir,Kashmir,Pakistan
+11,U.N. Security Council,al-Qaida,Iran's,searchers,Pakistan,United Nations,U.N. Security Council,Pakistan,Kashmir
+12,Shaanxi,Shaanxi,Shaanxi,U.N. Security Council,Kashmir,Guardian Council,Shaanxi,U.N. Security Council,al-Qaida
+13,India and Pakistan,Iraq,Iraq,al-Qaida,Shaanxi,Pakistan,Iraq,al-Qaida,Iraq
+14,,Xinhua news agency,,foreign office,Iraq,Kashmir,,Shaanxi,Xinhua news agency
+15,,,,Iraq,,Shaanxi,,,
+16,,,,Xinhua news agency,,Iraq,,,
+17,,,,car bomb,,,,,

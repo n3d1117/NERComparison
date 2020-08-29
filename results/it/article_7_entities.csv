@@ -1,0 +1,18 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Unicredito,titoli Alitalia,Alitalia,Unicredito,Unicredito,Unicredito,Unicredito
+1,Alitalia,Unicredito,Popolare di Verona,Alitalia,Alitalia,Alitalia,Alitalia
+2,Banca Intesa,Popolare di Verona,Banca Intesa,telecomunicazioni,Banca Intesa,Banca Intesa,Banca Intesa
+3,Capitalia,Capitalia,Enel,Banca Intesa,Enel,Capitalia,Capitalia
+4,Antoveneta,Enel,Tim,Capitalia,Antoveneta,Antoveneta,Enel
+5,Inferentia,Antoveneta,Bnl,Enel,Popolare,Inferentia,Antoveneta
+6,Tim,Inferentia,Popolare di,Fiat,Fiat,Tim,Inferentia
+7,Popolare di Verona e Novara,Tim,Novara,istituti di credito,Tim,Popolare di Verona e Novara,Fiat
+8,Euphon,Euphon,Mediaset,Saipem,Euphon,Euphon,Tim
+9,Bnl,Biscom,Fiat,Novara,Novara,Biscom,Euphon
+10,Saipem,Saipem,,Bnl,Saipem,Bnl,Saipem
+11,Piazza Affari,Novara,,Piazza Affari,Piazza Affari,Saipem,Bnl
+12,Mediaset,Bnl,,Mediaset,Mediaset,Piazza Affari,Novara
+13,Fiat,Piazza Affari,,Verona,Verona,Mediaset,Piazza Affari
+14,Mps,Mediaset,,euro,e.Biscom,Fiat,Mediaset
+15,e.Biscom,Fiat,,,,Mps,Verona
+16,,Mps,,,,,Mps

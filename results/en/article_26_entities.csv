@@ -1,0 +1,13 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,France,France,France,extradition,France,France,France,France,France
+1,Ramda,Ramda,Ramda,France,Ramda,Ramda,Ramda,British,Ramda
+2,Rachid Ramda,the Armed Islamic Group,Police,Rachid Ramda,Indonesian,Indonesian,the Armed Islamic Group,Indonesian,the Armed Islamic Group
+3,President Susilo Bambang Yudhoyono,Rachid Ramda,Rachid Ramda,Paris metro,Rachid Ramda,Rachid Ramda,Rachid Ramda,Rachid Ramda,Rachid Ramda
+4,Armed Islamic Group,Paris,British,Armed Islamic Group,Armed Islamic Group,British,Paris,Paris,Paris
+5,Paris,Susilo Bambang Yudhoyono,An Algerian,Susilo Bambang Yudhoyono,Paris,Armed Islamic Group,Susilo Bambang Yudhoyono,Susilo Bambang Yudhoyono,Susilo Bambang Yudhoyono
+6,Moscow,Moscow,Armed Islamic Group,Moscow,Susilo Bambang Yudhoyono,Paris,Moscow,Moscow,Moscow
+7,London,London,Paris,Paris subway,Moscow,Susilo Bambang Yudhoyono,London,Algerian,London
+8,,,Susilo Bambang Yudhoyono,,London,Moscow,,London,
+9,,,Moscow,,,Algerian,,,
+10,,,Algerian,,,London,,,
+11,,,London,,,,,,

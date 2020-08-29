@@ -1,0 +1,25 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,U.N.,the Central African Republic,Democratic,new deal,U.N.,U.N.,U.N.,Yu Hagino 23,the Central African Republic
+1,United Nations,al-Qaida,Europe,U.N. refugee agency,France,British,France,United Nations,Yu Hagino 23
+2,Japan,U.N.,Sudan,Sudanese refugees,United Nations,United Nations,United Nations,Sudanese,al-Qaida
+3,Yu Hagino,France,Police,United Nations,Central African Republic,Democratic Republic,Japan,Europe,U.N.
+4,Omar Bakri Mohammed,Japan,Japan,Central African Republic,Japan,Laden,Omar Bakri Mohammed,Uji,France
+5,Beirut,Yu Hagino,Beirut,Japan,Yu Hagino,Sudanese,Beirut,al-Qaida,Japan
+6,Muslims,Omar Bakri Mohammed,Downing Street,Omar Bakri Mohammed,Omar Bakri Mohammed,Europe,Congo,France 3,Omar Bakri Mohammed
+7,Muslim,Beirut,Bakri,Beirut,Beirut,Uji,Europe,Japan,Beirut
+8,Europe,CAR,Osama bin Laden,Muslim,Muslims,Sudan,Uji,Beirut,CAR
+9,Mr. Bakri,Europe,London,Congolese,Muslim,Japan,Bakri,French,Europe
+10,Uji,The United Nations,Central African,prime minister,Europe,French,London,Muslims,Uji.
+11,al-Qaida,Bakri,Central African Republic,July 7 bombings,Mr. Bakri,Beirut,Osama bin Laden,Downing Street,The United Nations
+12,Osama bin Laden,London,Nations,France 3,Uji,Muslims,Sudan,Osama bin Laden,Bakri
+13,London,Radical Islamic,Democratic Republic of Congo,Democratic Republic of Congo,London,CAR,Britain,London,London
+14,,Osama bin Laden,Mr,Osama bin Laden,Democratic Republic of Congo,Osama,,Central African Republic,Osama bin Laden
+15,,the Democratic Republic of Congo,France,Sudan,Osama bin Laden,London,,Democratic Republic of Congo,the Democratic Republic of Congo
+16,,Sudan,Yu Hagino,,Sudan,Central African Republic,,Omar Bakri Mohammed,Sudan
+17,,Britain,Omar Bakri Mohammed,,Britain,Muslim,,Congolese,Britain
+18,,,Uji .,,,Mr. Bakri,,Britain,
+19,,,,,,France,,,
+20,,,,,,Omar Bakri Mohammed,,,
+21,,,,,,Islamic,,,
+22,,,,,,Radical Islamic,,,
+23,,,,,,Britain,,,

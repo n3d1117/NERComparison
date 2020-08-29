@@ -1,0 +1,21 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Mercedes,Mercedes,Mercedes,Mattarello,Mercedes,Mercedes,Mercedes
+1,Tanzi,Mattarello,Tanzi Di ANGELO CONTE,Aldeno,Mattarello,Mattarello,Mattarello
+2,Philipp,Philipp,Mattarello,Ravina,Tanzi,Tanzi,Philipp
+3,Trentofrutta,Provina,Tanzi Di ANGELO CONTE TRENTO,,Philipp,Philipp,Provina
+4,via della Gottarda,via S. Marina,Trentofrutta,,Trentofrutta,Trentofrutta,via S. Marina
+5,via alle Piazzole,Aldeno,Philipp,,via S. Marina,via della Gottarda,Aldeno
+6,via S. Marina,Gottarda,Aldeno,,Aldeno,via alle Piazzole,Parmalat
+7,Parmalat,ponte di Mattarello»,Parmalat,,Gottarda,Aldeno,"Tanzi
+Di ANGELO CONTE
+TRENTO"
+8,commissione urbanistica,Parmalat,. Marina,,TRENTO,Parmalat,Versini
+9,ANGELO CONTE,Piazzole,Versini,,Parmalat,commissione urbanistica,Grisenti
+10,Versini,Versini,Grisenti,,monte di via alle Piazzole,ANGELO CONTE TRENTO,Ravina
+11,Grisenti,Grisenti,Ravina,,ANGELO,Versini,Armando Versini
+12,Armando Versini,Ravina,Armando Versini,,Versini,Grisenti,Romagnano
+13,,Armando Versini,Romagnano,,Grisenti,Ravina,
+14,,Romagnano,,,Ravina,Armando Versini,
+15,,,,,est,Romagnano,
+16,,,,,Armando Versini,circoscrizione,
+17,,,,,Romagnano,,

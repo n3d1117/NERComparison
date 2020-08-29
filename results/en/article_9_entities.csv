@@ -1,0 +1,20 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,NLTK Entities,Stanford Entities,Google Cloud Entities,Stanza Entities
+0,Russia,Russia,Mazar,Baltic states,Mazar-,British,Russia,British,Paktika province
+1,Latvia,Lithuania Latvia,Russia,Mazar-e-Sharif,Russia,Emergency,Lithuania Latvia,Russia,Russia
+2,Baltic states,U.S.,Kurram,central province,Lithuania Latvia,Russia,U.S.,Lithuania Latvia,Latvia
+3,U.S.,Uruzgan,Lithuania Latvia,Itar-Tass,-Sharif,Afghan,Uruzgan,Afghan,U.S.
+4,Uruzgan,NATO,Russia's Itar,Paktika province,U.S.,U.S.,Mazar-e-Sharif,U.S.,Uruzgan
+5,Taleban,Taleban,Uruzgan,hypothermia,Uruzgan,Uruzgan,northern Afghanistan,NATO,NATO
+6,Mazar-e-Sharif,Mazar-e-Sharif,NATO,Latvia,Baltic,Baltic,Afghanistan,Uruzgan,Mazar-e-Sharif
+7,Lithuania,Estonia,Baltic,Nordic countries,Estonia,Taleban,Itar-Tass,Taleban,Baltic
+8,Afghanistan,Nordic,Estonia,NATO,Afghanistan,Lithuania,Estonia,Mazar-e-Sharif,Lithuania
+9,Itar-Tass,Afghanistan,Nordic,Lithuania,Itar-Tass,Nordic,Paktika,Baltic,Afghanistan
+10,Estonia,Itar-Tass,Afghanistan,Estonia,eastern Paktika,Afghanistan,Kurram,Nordic,Itar-Tass
+11,Paktika,eastern Paktika,Tass,Kurram,Kurram,Itar-Tass,Moscow,Itar-Tass,Estonia
+12,Kurram,Kurram,Paktika,Moscow,Moscow,Estonia,,Estonia,Kurram
+13,Moscow,Moscow,The U.S,coalition forces,,Paktika,,Paktika,Moscow
+14,,,Moscow,Uruzgan,,Kurram,,Kurram,
+15,,,,U.S. military,,Moscow,,Moscow,
+16,,,,Afghanistan,,,,,
+17,,,,Russia,,,,,
+18,,,,Taleban,,,,,

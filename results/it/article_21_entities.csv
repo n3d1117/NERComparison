@@ -1,0 +1,28 @@
+,True Entities,Spacy Entities,Polyglot Entities,Dandelion Entities,NaturalLanguage Entities,Tint Entities,Google Cloud Entities
+0,Fiemme,Fiemme,giallorossi,Monte Baldo,Rovere,Fiemme,Alta
+1,Aldeno,Floriani,Fiemme,Levico Terme,Floriani,Aldeno,Aldeno
+2,Floriani,Calcio Chiese,Rovere,Aldeno,Rotaliana,Floriani,Floriani
+3,Calcio Chiese,Bevilacqua,.,Cavalese,Bevilacqua,Calcio Chiese,Calcio Chiese
+4,Rotaliana,Azzurra,Calcio,Vallagarina,Flores,Rotaliana,Rotaliana
+5,Bevilacqua,Cavalese,Floriani,Luca Giunchi,Cavalese,Bevilacqua,Bevilacqua
+6,Flores,Kaisermann,Vittoria,,Condinese,Flores,Flores
+7,Azzurra,Cavrasto,Bevilacqua,,Monte Baldo,Azzurra,Cavalese
+8,Kaisermann,Condinese,Brusco .,,Levico Terme,Cavalese,Kaisermann
+9,Fante,La Rovere,Flores,,Agostini,Kaisermann,Agostini pareggio di Brusco
+10,Condinese,Gabbiolo,Azzurra,,Brusco,Cavrasto,Cavrasto
+11,La Rovere,Monte Baldo,Cavalese,,Borghesi,Condinese,La Rovere
+12,Monte Baldo,Alta Vallagarina,Gabbiolo,,Fontana,La Rovere,Gabbiolo
+13,Levico Terme,Rotaliana sul Dro,Levico Terme,,Fabbri,Fante,Monte Baldo
+14,Alta Vallagarina,Brusco,Agostini,,Dro,Monte Baldo,Levico Terme
+15,Agostini,Fontana,Borghesi,,Luca Giunchi,Levico Terme,Vittoria netta per il Villazzano
+16,Brusco,Fabbri,Fontana,,Alberto Betta,Alta Vallagarina,Fontana
+17,Borghesi,Luca Giunchi,Monte,,Prandi,Agostini,Fabbri
+18,Fontana,Villazzano,Fabbri,,ds Kaisermann,Brusco,Dro
+19,Fabbri,Alberto Betta,Vallagarina,,,Borghesi,Vallagarina
+20,Dro,Prandi,Luca Giunchi,,,Fontana,Luca Giunchi
+21,Luca Giunchi,,Alberto Betta,,,Fabbri,Alberto Betta
+22,Villazzano,,Prandi,,,Dro,Prandi
+23,Alberto Betta,,,,,Luca Giunchi,
+24,Prandi,,,,,Villazzano,
+25,,,,,,Alberto Betta,
+26,,,,,,Prandi,
