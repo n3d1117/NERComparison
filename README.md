@@ -37,10 +37,10 @@ $ pip install requirements.txt
 * For Apple's Natural Language framework, make sure your have [Swift](https://swift.org) installed on your machine (Windows not supported at the moment)
 * For the Stanford NER, download the zip file from [here](https://nlp.stanford.edu/software/CRF-NER.html#Download), unzip it and place the contents in a root folder called `stanford`
 * For Google Cloud, generate your json authentication file (see [here](https://cloud.google.com/docs/authentication/getting-started) for more info), name it `auth.json` and place it in a root folder called `google-cloud-auth`
-* For Tint, you need to manually start the local server on port 8012. Just download the latest version form [here](https://tint.fbk.eu/download.html) and run the `tint-server.sh` bash file
+* For Tint, you need to manually start the local server on port 8012. Just download the latest version from [here](https://tint.fbk.eu/download.html) and run the `tint-server.sh` bash file
 
 ### Run
-Once your have all the requirements, run the main file `main.py` to start the process.
+Once you have all the requirements, run the main file `main.py` to start the process.
 
 Cleaned datasets will be added to the `dataset` folder. Results will appear in the `results` folder.
 
